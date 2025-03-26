@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exposicion on Jorge Quien</title>
-    <link>https://cielo.ovh/categories/exposicion/</link>
+    <link>http://localhost:1313/categories/exposicion/</link>
     <description>Recent content in Exposicion on Jorge Quien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>user@example.com (Jorge Quien)</managingEditor>
     <webMaster>user@example.com (Jorge Quien)</webMaster>
     <copyright>© Jorge Quien develop by cielo open virtual heaven</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 -0300</lastBuildDate><atom:link href="https://cielo.ovh/categories/exposicion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/categories/exposicion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Humanoide</title>
-      <link>https://cielo.ovh/artes-visuales/humanoide/</link>
+      <link>http://localhost:1313/artes-visuales/humanoide/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/artes-visuales/humanoide/</guid><media:content url="https://cielo.ovh/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/artes-visuales/humanoide/</guid><media:content url="http://localhost:1313/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Jorgonz</title>
-      <link>https://cielo.ovh/artes-visuales/jorgonz/</link>
+      <link>http://localhost:1313/artes-visuales/jorgonz/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/artes-visuales/jorgonz/</guid><media:content url="https://cielo.ovh/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/artes-visuales/jorgonz/</guid><media:content url="http://localhost:1313/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
