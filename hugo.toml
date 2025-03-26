@@ -1,0 +1,7 @@
+baseURL = "https://cielo.ovh/"
+languageCode = "es-es"
+title = "Open Virtual Heaven"
+theme = "gallery"
+
+[params]
+  description = "Mi sitio web en cielo.ovh"

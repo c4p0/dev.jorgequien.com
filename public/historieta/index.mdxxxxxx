@@ -1,0 +1,12 @@
+---
+description: algunos de mis comics
+menus: "main"
+title: Historieta
+weight: 2
+params:
+  theme: light
+resources:
+  - src: harper-sunday-FkxXePJJH5g-unsplash.jpg
+    params:
+      cover: true
+---

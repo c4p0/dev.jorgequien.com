@@ -1,0 +1,13 @@
+---
+description: Comics
+menus: "main"
+title: Historieta
+weight: 2
+categories: ["beauty", "fashion"]
+params:
+  theme: light
+resources:
+  - src: content/nature/azzedine-rouichi-f_C_lFxqThI-unsplash.jpg
+    params:
+      cover: true
+---

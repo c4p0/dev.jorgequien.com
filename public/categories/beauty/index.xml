@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beauty on Jorge Quien</title>
+    <link>http://localhost:1313/categories/beauty/</link>
+    <description>Recent content in Beauty on Jorge Quien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Jorge Quien)</managingEditor>
+    <webMaster>user@example.com (Jorge Quien)</webMaster>
+    <copyright>© Jorge Quien develop by cielo open virtual heaven</copyright><atom:link href="http://localhost:1313/categories/beauty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historieta</title>
+      <link>http://localhost:1313/historieta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
+      <guid>http://localhost:1313/historieta/</guid><media:content url="http://localhost:1313/historieta/With%20or%20without%20comics/1_hu_beed65819921158a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/historieta/With%20or%20without%20comics/1_hu_beed65819921158a.jpg&quot; /&gt;
+          &lt;p&gt;Comics&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
