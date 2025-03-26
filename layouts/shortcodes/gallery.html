@@ -1,0 +1,21 @@
+<div class="gallery">
+  {{/* Parámetros */}}
+  {{ $section := .Get "section" | default "historieta" }}
+  {{ $folder := .Get "folder" }}
+
+  {{/* Ruta completa */}}
+  {{ $ruta := printf "static/images/%s/%s" $section $folder }}
+  
+  {{/* Cargar imágenes */}}
+  {{ range readDir $ruta }}
+    {{ if in (slice ".jpg" ".jpeg" ".png" ".webp") (lower (path.Ext .Name)) }}
+      <div class="gallery-item">
+        <img 
+          src="/images/{{ $section }}/{{ $folder }}/{{ .Name }}" 
+          alt="{{ .Name }}"
+          loading="lazy"
+        >
+      </div>
+    {{ end }}
+  {{ end }}
+</div>

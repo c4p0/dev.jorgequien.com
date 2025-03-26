@@ -4,7 +4,7 @@ title: Rolling Planets
 sort_by: Name
 categories: [ilustracion]
 params:
-  featured_image: umantes-titán-saturno.jpg
+  featured_image: mancha-roja-júpiter.jpg
 
 
 ---

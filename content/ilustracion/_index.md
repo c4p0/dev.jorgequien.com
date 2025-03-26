@@ -6,8 +6,8 @@ weight: 1
 params:
   theme: light
 
-resources:
-  - src:
+resources: 
+  - src: 17.jpg
     params:
       cover: true
 

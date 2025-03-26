@@ -1,0 +1,9 @@
+<div class="video-container">
+  <video controls width="100%" preload="metadata" playsinline>
+    <source src="/videos/{{ .Get "src" }}" type="video/mp4">
+    Tu navegador no soporta este formato de video.
+  </video>
+  {{ if .Get "caption" }}
+    <p class="video-caption">{{ .Get "caption" }}</p>
+  {{ end }}
+</div>
