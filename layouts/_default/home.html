@@ -1,0 +1,18 @@
+{{ define "main" }}
+  {{ partial "title.html" . }}
+  
+  <!-- Mostrar la imagen de description_image -->
+  {{ with .Params.description_image }}
+    <img src="{{ . }}" alt="Description Image" class="center-image">
+  {{ else }}
+    <p>No se encontró description_image</p>
+  {{ end }}
+  
+  {{ partial "categories.html" }}
+  {{ partial "featured.html" . }}
+  <section class="galleries">
+    {{ range where .Pages "Params.private" "ne" true }}
+      {{ partial "album-card.html" . }}
+    {{ end }}
+  </section>
+{{ end }}

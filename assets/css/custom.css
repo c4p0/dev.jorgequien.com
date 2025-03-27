@@ -33,3 +33,49 @@ body > header {
   margin-bottom: 0;
 }
 */
+/* filepath: /home/user/Documents/web/dev.jorgequien.com/assets/css/style.css */
+
+.center-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 70%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+  object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
+}
+
+/* centrar todas las galerias 
+
+#gallery {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+  margin: 0 auto !important;
+  max-width: 100% !important;
+}
+
+#gallery {
+  visibility: visible !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+
+body {
+  background-color: red !important;
+}
+*/
+
+/*
+section.gallery #gallery {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+  margin: 0 auto !important;
+  max-width: 100% !important;
+  visibility: visible !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+
+*/

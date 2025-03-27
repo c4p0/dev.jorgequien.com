@@ -9,82 +9,21 @@
     <managingEditor>user@example.com (Jorge Quien)</managingEditor>
     <webMaster>user@example.com (Jorge Quien)</webMaster>
     <copyright>© Jorge Quien develop by cielo open virtual heaven</copyright>
-    <lastBuildDate>Fri, 27 Dec 2024 13:27:23 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Videos</title>
       <link>http://localhost:1313/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/videos/</guid><description>videos experimentales</description></item>
+      <guid>http://localhost:1313/videos/</guid><description></description></item>
     <item>
       <title>Publicaciones</title>
       <link>http://localhost:1313/publicaciones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/</guid><description>tapas y contratapas</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/humanillo/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/humanillo/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/mansion/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/mansion/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/nada/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/nada/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/obra/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/obra/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/planetoide/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/planetoide/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/pocketland/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/pocketland/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/revista/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/revista/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/robots/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/robots/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/sofistas/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/sofistas/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/spiderman/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/spiderman/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/terra/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/terra/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/vichoquien/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/vichoquien/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/publicaciones/visite/</link>
-      <pubDate>Fri, 27 Dec 2024 13:27:23 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/publicaciones/visite/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/publicaciones/</guid><media:content url="http://localhost:1313/publicaciones/libros/TRACN_hu_8800c56daec5fe75.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/publicaciones/libros/TRACN_hu_8800c56daec5fe75.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
     <item>
       <title>Humanoide</title>
       <link>http://localhost:1313/artes-visuales/humanoide/</link>
@@ -92,7 +31,16 @@
       <guid>http://localhost:1313/artes-visuales/humanoide/</guid><media:content url="http://localhost:1313/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+          &lt;p&gt;Fundación Bullukian, Lyon, Francia. (2013).&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Los Sofistas</title>
+      <link>http://localhost:1313/artes-visuales/los_sofistas/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
+      <guid>http://localhost:1313/artes-visuales/los_sofistas/</guid><media:content url="http://localhost:1313/artes-visuales/los_sofistas/1_hu_c267e3de53b42d16.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/artes-visuales/los_sofistas/1_hu_c267e3de53b42d16.jpg&quot; /&gt;
+          &lt;p&gt;Muestra junto a la escultora Marcela Oliva, Museo de Arte Contemporáneo, Santiago de Chile. (2017)&lt;/p&gt;
         </description></item>
     <item>
       <title>Rolling Planets</title>
@@ -128,7 +76,7 @@
       <guid>http://localhost:1313/artes-visuales/jorgonz/</guid><media:content url="http://localhost:1313/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+          &lt;p&gt;Instalación de objetos en gabinetes contra incendios. Bienal Internacional de Valparaíso, Chile. (2024)&lt;/p&gt;
         </description></item>
     <item>
       <title>Planeta 0</title>

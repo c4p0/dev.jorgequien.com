@@ -1,11 +1,12 @@
 ---
-description: tapas y contratapas
+description:
+description_image: /images/book.webp
 menus: "main"
 title: Publicaciones
 weight: 5
-categories:
+categories: [publicaciones]
 params:
-  theme: dark
+  theme: light
 ---
 
 **[Obra Reunida, Corregida y Aumentada](/publicaciones/obra/)**

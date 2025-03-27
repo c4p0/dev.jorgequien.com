@@ -17,7 +17,16 @@
       <guid>http://localhost:1313/artes-visuales/humanoide/</guid><media:content url="http://localhost:1313/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+          &lt;p&gt;Fundación Bullukian, Lyon, Francia. (2013).&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Los Sofistas</title>
+      <link>http://localhost:1313/artes-visuales/los_sofistas/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
+      <guid>http://localhost:1313/artes-visuales/los_sofistas/</guid><media:content url="http://localhost:1313/artes-visuales/los_sofistas/1_hu_c267e3de53b42d16.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/artes-visuales/los_sofistas/1_hu_c267e3de53b42d16.jpg&quot; /&gt;
+          &lt;p&gt;Muestra junto a la escultora Marcela Oliva, Museo de Arte Contemporáneo, Santiago de Chile. (2017)&lt;/p&gt;
         </description></item>
     <item>
       <title>Jorgonz</title>
@@ -26,7 +35,7 @@
       <guid>http://localhost:1313/artes-visuales/jorgonz/</guid><media:content url="http://localhost:1313/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+          &lt;p&gt;Instalación de objetos en gabinetes contra incendios. Bienal Internacional de Valparaíso, Chile. (2024)&lt;/p&gt;
         </description></item>
   </channel>
 </rss>

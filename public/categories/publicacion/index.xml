@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publicacion on Jorge Quien</title>
+    <link>http://localhost:1313/categories/publicacion/</link>
+    <description>Recent content in Publicacion on Jorge Quien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Jorge Quien)</managingEditor>
+    <webMaster>user@example.com (Jorge Quien)</webMaster>
+    <copyright>© Jorge Quien develop by cielo open virtual heaven</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/categories/publicacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>libros</title>
+      <link>http://localhost:1313/libros/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
+      <guid>http://localhost:1313/libros/</guid><media:content url="http://localhost:1313/libros/TRACN_hu_8800c56daec5fe75.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/libros/TRACN_hu_8800c56daec5fe75.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

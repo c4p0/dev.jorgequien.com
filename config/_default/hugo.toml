@@ -7,10 +7,19 @@ languageCode = "en"
 timeout = "120s"
 title = "Jorge Quien"
 
+[markup.goldmark.renderer]
+unsafe = true
+
+
+
 [params]
   defaultTheme = "dark"
-  description = "Example site cielo.ovh"
-  title = "My Gallery"
+  description = "web Jorge Quien"
+  customCSS = ["assets/css/custom.css"]
+  title = "Jorge Quien"
+  #logo = "images/logo.png"
+  #favicon = "images/favicon.png"
+  #cover = "images/cover.jpg"
   [params.author]
     email = "user@example.com"
     name = "Jorge Quien"

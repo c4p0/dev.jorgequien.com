@@ -15,47 +15,8 @@
   </url><url>
     <loc>http://localhost:1313/publicaciones/</loc>
   </url><url>
-    <loc>http://localhost:1313/publicaciones/humanillo/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/mansion/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/nada/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/obra/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/planetoide/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/pocketland/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/revista/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/robots/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/sofistas/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/spiderman/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/terra/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/vichoquien/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publicaciones/visite/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-27T13:27:23+00:00</lastmod>
+    <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/arte/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
@@ -70,6 +31,9 @@
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/ilustracion/</loc>
+    <lastmod>2023-04-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artes-visuales/los_sofistas/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ilustracion/rolling-planets/</loc>
@@ -101,5 +65,7 @@
     <loc>http://localhost:1313/bio/</loc>
   </url><url>
     <loc>http://localhost:1313/imprint/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/publicaciones/</loc>
   </url>
 </urlset>

@@ -1,7 +1,7 @@
 ---
-description: arte + comics +.+
-#lastmod: 2023-07-05
-title: Jorge Quien
+description_image: /images/home2.webp
+title: 
+theme: light
 resources:
   - src: 01-manguera.jpg
     params:

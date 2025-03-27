@@ -1,0 +1,18 @@
+{{ define "main" }}
+  {{ partial "title.html" . }}
+  {{ with .Params.description_image }}
+  <img src="{{ . }}" alt="Description Image" class="center-image">
+{{ else }}
+  <p></p>
+{{ end }}
+  {{ partial "gallery.html" . }}
+  {{ partial "related.html" . }}
+  <!-- Mostrar la imagen de description_image -->
+ 
+
+  {{ with .Content }}
+    <section class="prose">
+      {{ . }}
+    </section>
+  {{ end }}
+{{ end }}

@@ -1,5 +1,5 @@
 ---
-description: videos experimentales
+description:
 menus: "main"
 title: Videos
 weight: 4
