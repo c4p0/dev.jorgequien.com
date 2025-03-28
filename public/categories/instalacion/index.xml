@@ -8,16 +8,6 @@
     <language>en</language>
     <managingEditor>user@example.com (Jorge Quien)</managingEditor>
     <webMaster>user@example.com (Jorge Quien)</webMaster>
-    <copyright>© Jorge Quien develop by cielo open virtual heaven</copyright>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/categories/instalacion/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jorgonz</title>
-      <link>http://localhost:1313/artes-visuales/jorgonz/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/artes-visuales/jorgonz/</guid><media:content url="http://localhost:1313/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg&quot; /&gt;
-          &lt;p&gt;Instalación de objetos en gabinetes contra incendios. Bienal Internacional de Valparaíso, Chile. (2024)&lt;/p&gt;
-        </description></item>
+    <copyright>© Jorge Quien develop by c4p0 - open virtual heaven</copyright><atom:link href="http://localhost:1313/categories/instalacion/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,70 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/artes-visuales/</loc>
+    <loc>http://localhost:39235/artes-visuales/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ilustracion/</loc>
+    <loc>http://localhost:39235/ilustracion/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/historieta/</loc>
+    <loc>http://localhost:39235/historieta/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/videos/</loc>
+    <loc>http://localhost:39235/videos/</loc>
   </url><url>
-    <loc>http://localhost:1313/publicaciones/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:39235/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/arte/</loc>
+    <loc>http://localhost:39235/artes-visuales/humanoide/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/comics/</loc>
+    <loc>http://localhost:39235/artes-visuales/los_sofistas/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/exposicion/</loc>
+    <loc>http://localhost:39235/ilustracion/rolling-planets/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artes-visuales/humanoide/</loc>
+    <loc>http://localhost:39235/historieta/with-or-without-comics/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ilustracion/</loc>
-    <lastmod>2023-04-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artes-visuales/los_sofistas/</loc>
-    <lastmod>2023-04-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ilustracion/rolling-planets/</loc>
-    <lastmod>2023-04-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/historieta/with-or-without-comics/</loc>
-    <lastmod>2023-04-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ilustracion/crisis_de_un_modelo/</loc>
+    <loc>http://localhost:39235/ilustracion/crisis_de_un_modelo/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/instalacion/</loc>
+    <loc>http://localhost:39235/artes-visuales/jorgonz/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artes-visuales/jorgonz/</loc>
+    <loc>http://localhost:39235/historieta/planeta-cero/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/historieta/planeta-cero/</loc>
+    <loc>http://localhost:39235/ilustracion/robot/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ilustracion/robot/</loc>
+    <loc>http://localhost:39235/historieta/vocecitas/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/historieta/vocecitas/</loc>
-    <lastmod>2023-01-12T00:00:00-03:00</lastmod>
+    <loc>http://localhost:39235/categories/animals/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/animals/</loc>
+    <loc>http://localhost:39235/bio/</loc>
   </url><url>
-    <loc>http://localhost:1313/bio/</loc>
+    <loc>http://localhost:39235/categories/comics/</loc>
   </url><url>
-    <loc>http://localhost:1313/imprint/</loc>
+    <loc>http://localhost:39235/categories/ilustracion/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/publicaciones/</loc>
+    <loc>http://localhost:39235/categories/publicaciones/</loc>
+  </url><url>
+    <loc>http://localhost:39235/categories/xx/</loc>
   </url>
 </urlset>

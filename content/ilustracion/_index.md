@@ -1,14 +1,12 @@
 ---
-description: Ilustracion y grafica
+description:
+description_image: /images/ilustracion.webp
 menus: "main"
-title: Ilustracion y Grafica
+title: Ilustración y Gráfica
 weight: 1
 params:
   theme: light
 
-resources: 
-  - src: 17.jpg
-    params:
-      cover: true
+
 
 ---

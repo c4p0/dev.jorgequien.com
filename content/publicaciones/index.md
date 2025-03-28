@@ -4,9 +4,11 @@ description_image: /images/book.webp
 menus: "main"
 title: Publicaciones
 weight: 5
-categories: [publicaciones]
+categories: []
+
 params:
   theme: light
+  private: true
 ---
 
 **[Obra Reunida, Corregida y Aumentada](/publicaciones/obra/)**

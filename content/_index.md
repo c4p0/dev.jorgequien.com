@@ -1,7 +1,7 @@
 ---
-description_image: /images/home2.webp
+description_image: /images/carita.webp
 title: 
-theme: light
+theme: dark
 resources:
   - src: 01-manguera.jpg
     params:

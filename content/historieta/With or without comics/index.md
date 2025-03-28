@@ -1,8 +1,8 @@
 ---
 date: 2023-04-01
-title: WoW
+title: With or without Comics
 sort_by: Name
-categories: ["comics"]
+#categories: ["comics"]
 params:
   featured_image: 1.jpg
 resources:
@@ -13,4 +13,3 @@ resources:
   - src: 4.jpg
     title:
 ---
-Fundación Bullukian, Lyon, Francia. (2013).

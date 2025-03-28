@@ -8,25 +8,6 @@
     <language>en</language>
     <managingEditor>user@example.com (Jorge Quien)</managingEditor>
     <webMaster>user@example.com (Jorge Quien)</webMaster>
-    <copyright>© Jorge Quien develop by cielo open virtual heaven</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/categories/arte/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Humanoide</title>
-      <link>http://localhost:1313/artes-visuales/humanoide/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/artes-visuales/humanoide/</guid><media:content url="http://localhost:1313/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg&quot; /&gt;
-          &lt;p&gt;Fundación Bullukian, Lyon, Francia. (2013).&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Los Sofistas</title>
-      <link>http://localhost:1313/artes-visuales/los_sofistas/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/artes-visuales/los_sofistas/</guid><media:content url="http://localhost:1313/artes-visuales/los_sofistas/1_hu_c267e3de53b42d16.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/artes-visuales/los_sofistas/1_hu_c267e3de53b42d16.jpg&quot; /&gt;
-          &lt;p&gt;Muestra junto a la escultora Marcela Oliva, Museo de Arte Contemporáneo, Santiago de Chile. (2017)&lt;/p&gt;
-        </description></item>
+    <copyright>© Jorge Quien develop by c4p0 - open virtual heaven</copyright><atom:link href="http://localhost:1313/categories/arte/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
