@@ -2,57 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:39235/artes-visuales/</loc>
+    <loc>https://cielo.ovh/artes-visuales/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/ilustracion/</loc>
+    <loc>https://cielo.ovh/ilustracion/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/historieta/</loc>
+    <loc>https://cielo.ovh/historieta/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/videos/</loc>
+    <loc>https://cielo.ovh/videos/</loc>
   </url><url>
-    <loc>http://localhost:39235/</loc>
+    <loc>https://cielo.ovh/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/artes-visuales/humanoide/</loc>
+    <loc>https://cielo.ovh/artes-visuales/humanoide/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/artes-visuales/los_sofistas/</loc>
+    <loc>https://cielo.ovh/artes-visuales/los_sofistas/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/ilustracion/rolling-planets/</loc>
+    <loc>https://cielo.ovh/ilustracion/rolling-planets/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/historieta/with-or-without-comics/</loc>
+    <loc>https://cielo.ovh/historieta/with-or-without-comics/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/ilustracion/crisis_de_un_modelo/</loc>
+    <loc>https://cielo.ovh/ilustracion/crisis_de_un_modelo/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/artes-visuales/jorgonz/</loc>
+    <loc>https://cielo.ovh/artes-visuales/jorgonz/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/historieta/planeta-cero/</loc>
+    <loc>https://cielo.ovh/historieta/planeta-cero/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/ilustracion/robot/</loc>
+    <loc>https://cielo.ovh/ilustracion/robot/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/historieta/vocecitas/</loc>
+    <loc>https://cielo.ovh/historieta/vocecitas/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:39235/categories/animals/</loc>
+    <loc>https://cielo.ovh/categories/animals/</loc>
   </url><url>
-    <loc>http://localhost:39235/bio/</loc>
-  </url><url>
-    <loc>http://localhost:39235/categories/comics/</loc>
-  </url><url>
-    <loc>http://localhost:39235/categories/ilustracion/</loc>
-  </url><url>
-    <loc>http://localhost:39235/categories/publicaciones/</loc>
-  </url><url>
-    <loc>http://localhost:39235/categories/xx/</loc>
+    <loc>https://cielo.ovh/bio/</loc>
   </url>
 </urlset>
