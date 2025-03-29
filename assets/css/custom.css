@@ -101,7 +101,7 @@ section.gallery #gallery {
 .description-image {
   display: block;
   margin: 0 auto; /* Centra la imagen horizontalmente */
-  max-width: 50%; /* Ajusta el tamaño máximo al 50% del ancho del contenedor */
+  max-width: 30%; /* Ajusta el tamaño máximo al 50% del ancho del contenedor */
   height: auto; /* Mantiene la proporción de la imagen */
 }
 
