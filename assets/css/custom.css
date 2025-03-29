@@ -83,6 +83,15 @@ section.gallery #gallery {
   object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
 }
 
+
+.bio-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 90%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+  object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
+}
+
 .section-image {
   display: block;
   margin: 0 auto;
@@ -102,7 +111,7 @@ section.gallery #gallery {
 .background-container {
   background-size: cover; /* Escala la imagen para cubrir todo el contenedor */
   background-position: center; /* Centra la imagen */
-  background-repeat: repeat; /* Evita que la imagen se repita */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
   height: 100vh; /* Ajusta la altura del contenedor */
   width: 100%; /* Asegura que el contenedor ocupe todo el ancho */
   display: flex;
@@ -131,19 +140,6 @@ section.gallery #gallery {
   text-align: left; /* Centra el texto dentro del bloque */
 }
 
-/*
-
-.textos-list a {
-  color: #007acc; /* Cambia el color de los enlaces */
-/*  text-decoration: none; /* Elimina el subrayado 
-}
-*/
-/*
-.textos-list a:hover {
-  text-decoration: underline; /* Subraya los enlaces al pasar el cursor */
-/*}
-
-*/
 
 .textos-list a {
   color: var(--text-1); /* Usa el color principal del texto */

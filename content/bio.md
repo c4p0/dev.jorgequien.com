@@ -9,7 +9,7 @@ menu:
 
 
 <div>
-  <img src="/images/bio-new.webp" alt="image" class="center-image">
+  <img src="/images/bio-new.webp" alt="image" class="bio-image">
 </div>
 
 
