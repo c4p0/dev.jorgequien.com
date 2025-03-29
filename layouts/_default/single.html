@@ -3,7 +3,7 @@
     <link rel="stylesheet" href="/themes/gallery/assets/css/theme.css"> <!-- Tema -->
     <link rel="stylesheet" href="/assets/css/custom.css"> <!-- Sobrescribe -->
   </head>
-  {{ partial "title.html" . }}
+
   {{ with .Params.description_image }}
   <img src="{{ . }}" alt="Description Image" class="center-image">
 {{ else }}
@@ -11,9 +11,8 @@
 {{ end }}
   {{ partial "gallery.html" . }}
   {{ partial "related.html" . }}
-  <!-- Mostrar la imagen de description_image -->
  
-
+  {{ partial "title.html" . }}
   {{ with .Content }}
     <section class="prose">
       {{ . }}

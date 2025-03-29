@@ -78,7 +78,7 @@ section.gallery #gallery {
 .center-image {
   display: block;
   margin: 0 auto;
-  max-width: 40%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  max-width: 50%; /* Asegura que la imagen no exceda el ancho del contenedor */
   height: auto; /* Mantiene la proporción de la imagen */
   object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
 }
@@ -86,7 +86,7 @@ section.gallery #gallery {
 .section-image {
   display: block;
   margin: 0 auto;
-  max-width: 20%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  max-width: 40%; /* Asegura que la imagen no exceda el ancho del contenedor */
   height: auto; /* Mantiene la proporción de la imagen */
   object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
 }
@@ -99,6 +99,18 @@ section.gallery #gallery {
   object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
 }
 
+.background-container {
+  background-size: cover; /* Escala la imagen para cubrir todo el contenedor */
+  background-position: center; /* Centra la imagen */
+  background-repeat: repeat; /* Evita que la imagen se repita */
+  height: 100vh; /* Ajusta la altura del contenedor */
+  width: 100%; /* Asegura que el contenedor ocupe todo el ancho */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white; /* Cambia el color del texto para que sea visible sobre el fondo */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); /* Agrega sombra al texto */
+}
 
 
 .textos-container {
