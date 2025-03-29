@@ -1,7 +1,7 @@
 ---
 description_image: /images/carita.webp
 title: 
-theme: dark
+theme: 
 resources:
   - src: 01-manguera.jpg
     params:

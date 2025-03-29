@@ -6,7 +6,7 @@ description_image: /images/escombro.webp
 ---
  **Breve Antología del Escombro Ilustrado**  
 *Daniel García*
-
+<div style="text-align: justify;">
 No se trata de hacer escombros, sino de pintar sobre ellos. Tampoco es
 cosa de construir sobre las ruinas. Las ruinas tienen otras connotaciones.
 Nos hacen pensar en antiguas civilizaciones, en imperios en decadencia,
@@ -33,3 +33,4 @@ del presente, las imágenes de un futuro que ya es pasado o de un futuro
 que nunca será, como fragmentos casi indescifrables de falsos murales
 que cuentan historias fantásticas de encuentros extraterrestres y viajes
 interplanetarios.
+</div>

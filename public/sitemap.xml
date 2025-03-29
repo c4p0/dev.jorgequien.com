@@ -47,12 +47,6 @@
   </url><url>
     <loc>http://localhost:1313/bio/</loc>
   </url><url>
-    <loc>http://localhost:1313/textos/daniel-garcia/</loc>
-  </url><url>
-    <loc>http://localhost:1313/textos/historia-y-escultura/</loc>
-  </url><url>
-    <loc>http://localhost:1313/textos/space-opera/</loc>
-  </url><url>
     <loc>http://localhost:1313/textos/</loc>
   </url>
 </urlset>

@@ -97,19 +97,9 @@
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>Breve antologia del escombro ilustrado</title>
-      <link>http://localhost:1313/textos/daniel-garcia/</link>
+      <title>Textos</title>
+      <link>http://localhost:1313/textos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/textos/daniel-garcia/</guid><description>Texto de sala para la exposición homónima en Oficina Proyectista. Buenos Aires, 2015</description></item>
-    <item>
-      <title>Historia y Escultura</title>
-      <link>http://localhost:1313/textos/historia-y-escultura/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/textos/historia-y-escultura/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title>Space Opera</title>
-      <link>http://localhost:1313/textos/space-opera/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/textos/space-opera/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/textos/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

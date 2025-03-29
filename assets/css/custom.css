@@ -35,13 +35,7 @@ body > header {
 */
 /* filepath: /home/user/Documents/web/dev.jorgequien.com/assets/css/style.css */
 
-.center-image {
-  display: block;
-  margin: 0 auto;
-  max-width: 70%; /* Asegura que la imagen no exceda el ancho del contenedor */
-  height: auto; /* Mantiene la proporción de la imagen */
-  object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
-}
+
 
 /* centrar todas las galerias 
 
@@ -79,3 +73,77 @@ section.gallery #gallery {
 }
 
 */
+
+.center-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 70%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+  object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
+}
+
+.section-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 20%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+  object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
+}
+
+.space-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+  object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
+}
+
+.description-image {
+  display: block;
+  margin: 0 auto; /* Centra la imagen horizontalmente */
+  max-width: 50%; /* Ajusta el tamaño máximo al 50% del ancho del contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+}
+
+.textos-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Alinea el contenido al inicio del contenedor */
+  min-height: auto; /* Elimina la altura mínima de la ventana */
+  margin-top: 2rem; /* Agrega un margen superior para ajustar la distancia */
+  padding: 0;
+}
+.textos-list {
+ /* font-family: Arial, sans-serif; /* Cambia la fuente */
+  font-size: 1.2rem; /* Ajusta el tamaño del texto */
+  line-height: 1; /* Espaciado entre líneas */
+  margin: 20px auto; /* Elimina márgenes adicionales */
+  padding: 0; /* Elimina padding adicional */
+  max-width: 600px; /* Ancho máximo del bloque */
+  text-align: left; /* Centra el texto dentro del bloque */
+}
+
+/*
+
+.textos-list a {
+  color: #007acc; /* Cambia el color de los enlaces */
+/*  text-decoration: none; /* Elimina el subrayado 
+}
+*/
+/*
+.textos-list a:hover {
+  text-decoration: underline; /* Subraya los enlaces al pasar el cursor */
+/*}
+
+*/
+
+.textos-list a {
+  color: var(--text-1); /* Usa el color principal del texto */
+  text-decoration: none; /* Elimina el subrayado */
+  transition: color 0.3s ease; /* Agrega una transición suave al cambiar el color */
+}
+
+.textos-list a:hover {
+  color: var(--text-2); /* Cambia al color secundario al pasar el cursor */
+  text-decoration: underline; /* Opcional: subraya el enlace al pasar el cursor */
+}

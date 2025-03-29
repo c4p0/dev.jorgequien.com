@@ -22,7 +22,7 @@
   {{ $css := resources.Get "/css/main.scss" | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
   <link rel="stylesheet" href="/themes/gallery/assets/css/theme.css"> <!-- CSS del tema -->
-  <link rel="stylesheet" href="/static/css/custom.css"> <!-- Tu CSS personalizado -->
+  <link rel="stylesheet" href="/assets/css/custom.css"> <!-- Tu CSS personalizado -->
   {{ $params := dict
     "closeTitle" (i18n "closeTitle")
     "zoomTitle" (i18n "zoomTitle")
