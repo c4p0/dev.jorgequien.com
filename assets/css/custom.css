@@ -74,10 +74,11 @@ section.gallery #gallery {
 
 */
 
+
 .center-image {
   display: block;
   margin: 0 auto;
-  max-width: 70%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  max-width: 40%; /* Asegura que la imagen no exceda el ancho del contenedor */
   height: auto; /* Mantiene la proporción de la imagen */
   object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
 }
@@ -98,12 +99,7 @@ section.gallery #gallery {
   object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
 }
 
-.description-image {
-  display: block;
-  margin: 0 auto; /* Centra la imagen horizontalmente */
-  max-width: 30%; /* Ajusta el tamaño máximo al 50% del ancho del contenedor */
-  height: auto; /* Mantiene la proporción de la imagen */
-}
+
 
 .textos-container {
   display: flex;
@@ -146,4 +142,17 @@ section.gallery #gallery {
 .textos-list a:hover {
   color: var(--text-2); /* Cambia al color secundario al pasar el cursor */
   text-decoration: underline; /* Opcional: subraya el enlace al pasar el cursor */
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.description-image {
+  max-width: 100%;
+  height: auto;
+  flex: 1 1 auto; /* Permite que la imagen escale dentro del contenedor */
 }

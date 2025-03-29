@@ -5,6 +5,7 @@ menus: "main"
 title: Publicaciones
 weight: 5
 categories: []
+layout: single
 
 params:
   theme: light
