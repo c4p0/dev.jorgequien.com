@@ -1,4 +1,4 @@
-copyright = "© Jorge Quien develop by c4p0 - open virtual heaven"
+copyright = "© Jorge Quien develop by c4p0*virtual heaven"
 defaultContentLanguage = "es"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
@@ -6,6 +6,8 @@ timeZone = "America/Argentina/Buenos_Aires"
 languageCode = "en"
 timeout = "120s"
 title = "Jorge Quien"
+favicon = "images/favicon.svg"
+
 
 [markup.goldmark.renderer]
 unsafe = true

@@ -1,12 +1,13 @@
 ---
 title: Historieta y Escultura
-description: Cuadernos del Centro de Estudios en Diseño y Comunicación.
+description: Cuadernos del Centro de Estudios en Diseño y Comunicación, Universidad de Palermo.
 ---
 
-Ensayos Historieta y escultura, un vínculo posible  
-Jorge Opazo - Marcela Oliva *  
 
-**Densita - 2020** *
+**Historieta y escultura, un vínculo posible**  
+Jorge Opazo - Marcela Oliva   
+
+*Densita - 2020*
 
 <div style="text-align: justify;">
 Densita es una historieta breve de ciencia ficción en la que compartimos el proceso
@@ -45,7 +46,7 @@ está muy presente en las actividades de los niños y niñas, pero no parece con
 No sé bien por qué, pero los buenos escultores suelen ser buenos dibujantes. Tienen una
 mano endiablada para el dibujo. No así para la pintura. En ese terreno hay historietistas que son buenos pintores (y viceversa) como Alberto Breccia, Carlos Nine, Pablo Zweig o Manuel Depetris. En escultura basta revisar los croquis y proyectos de Claes Oldenburg, Alberto Giacometti u Omar Estela (el maestro de Marcela) para encontrarse con ese dibujo fresco, suelto y resuelto.En fin, con Densita nunca pretendimos analizar las relaciones estéticas o conceptuales entre historieta y escultura. La colaboración surgió más bien como una actividad de entrecasa. Sin embargo, en 2015 presentamos el proyecto de exposición en el espacio La Dársena -plataforma de pensamiento e interacción artística- dirigido por Azul Blaseotto y Eduardo Molinari. Ese año el ciclo de exposiciones se titulaba Profundo -exploraciones interdisciplinarias- y nuestra propuesta calzaba perfectamente con el enunciado. La muestra consistió en una instalación con las páginas originales (tinta y grafito sobre papel) y una serie de objetos y esculturas -materializaciones de la geografía del planeta- realizados por Marcela. Así, el material que inspiró el cómic terminó conformando realmente su paisaje.
 
-**Los Sofistas**
+*Los Sofistas*  
 Los Sofistas es tal vez una de mis historietas más extremas. Todo en Los Sofistas es
 exagerado, tanto en la forma como en el contenido. Pero una exageración de base real.
 Se publicó por entregas en el sitio web de arte contemporáneo Artishock. La empecé en
@@ -98,6 +99,5 @@ NOTAS
  * Densita fue un proyecto presentado inicialmente en La Dársena - Plataforma de
    Pensamiento e Interacción Artística (Buenos Aires) y supuso la primera colaboración
    entre lxs artistas. En 2017 se repitió la experiencia en Los Sofistas, en el Museo de Arte Contemporáneo de Santiago de Chile, donde la experiencia inicial fue expandida y profundizada.
-* -Densita es una autoedición y se puede conseguir contactándose con los autores       al mail: quienjorge@jorgequien.com.
   
 * Los Sofistas se publicó en 2016 por Ril Editores (Santiago de Chile). Y en Buenos Aires en 2018 por Editorial Tren en Movimiento. El libro cuenta con varios textos complementarios; una entrevista, un prólogo de Claudio Aguilera y dos textos de Pablo Turnes, uno dedicado al cómic y otro a la exposición en el MAC.

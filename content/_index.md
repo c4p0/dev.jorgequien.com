@@ -1,5 +1,5 @@
 ---
-description_image: /images/carita.webp
+#description_image: /images/carita.webp
 title: 
 theme: 
 resources:

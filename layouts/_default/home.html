@@ -3,9 +3,9 @@
   
   <!-- Mostrar la imagen de description_image -->
   {{ with .Params.description_image }}
-    <img src="{{ . }}" alt="Description Image" class="center-image">
+    <img src="{{ . }}" alt="Description Image" class="home-image">
   {{ else }}
-    <p>No se encontró description_image</p>
+    <p></p>
   {{ end }}
   
   {{ partial "categories.html" }}

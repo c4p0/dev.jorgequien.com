@@ -8,6 +8,6 @@
     <language>en</language>
     <managingEditor>user@example.com (Jorge Quien)</managingEditor>
     <webMaster>user@example.com (Jorge Quien)</webMaster>
-    <copyright>© Jorge Quien develop by c4p0 - open virtual heaven</copyright><atom:link href="http://localhost:1313/categories/animals/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Jorge Quien develop by c4p0*virtual heaven</copyright><atom:link href="http://localhost:1313/categories/animals/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

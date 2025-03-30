@@ -83,6 +83,14 @@ section.gallery #gallery {
   object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
 }
 
+.home-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 30%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+  object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
+}
+
 
 .bio-image {
   display: block;
@@ -163,4 +171,28 @@ section.gallery #gallery {
   max-width: 100%;
   height: auto;
   flex: 1 1 auto; /* Permite que la imagen escale dentro del contenedor */
+}
+
+.btn {
+  display: inline-flex; /* Asegura que el contenido interno se alinee correctamente */
+  justify-content: center; /* Centra el contenido horizontalmente */
+  align-items: center; /* Centra el contenido verticalmente */
+  width: 150px; /* Ajusta el ancho del botón (puedes personalizarlo) */
+  height: 150px; /* Ajusta la altura del botón (puedes personalizarlo) */
+  padding: 0; /* Elimina el padding adicional */
+  background-color: transparent; /* Opcional: establece un fondo transparente */
+  border: none; /* Opcional: elimina bordes si los hay */
+}
+
+header {
+  display: flex; /* Asegura que los elementos internos se alineen correctamente */
+  align-items: center; /* Centra verticalmente los elementos dentro del header */
+  height: 150px; /* Ajusta la altura del header (puedes personalizarlo) */
+  padding: 0 20px; /* Opcional: agrega espacio horizontal */
+}
+
+
+.btn img {
+  max-width: 400%; /* Asegura que el SVG no exceda el tamaño del botón */
+  max-height: 400%; /* Asegura que el SVG no exceda la altura del botón */
 }
