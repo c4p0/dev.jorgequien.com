@@ -2,7 +2,7 @@
 date: 2023-04-01
 title: Humanoide
 sort_by: Name
-description: Fundación Bullukian, Lyon, Francia. (2013).
+description: Fundación Bullukian, Lyon, Francia, 2013.
 params:
   featured_image: 1.jpg
 resources:
