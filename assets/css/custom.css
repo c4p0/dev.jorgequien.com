@@ -161,10 +161,9 @@ section.gallery #gallery {
 }
 
 .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+  max-width: 1200px; /* Define un ancho máximo para el contenido */
+  padding: 0 20px; /* Agrega espacio horizontal */
 }
 
 .description-image {
@@ -173,26 +172,38 @@ section.gallery #gallery {
   flex: 1 1 auto; /* Permite que la imagen escale dentro del contenedor */
 }
 
-.btn {
-  display: inline-flex; /* Asegura que el contenido interno se alinee correctamente */
-  justify-content: center; /* Centra el contenido horizontalmente */
-  align-items: center; /* Centra el contenido verticalmente */
-  width: 150px; /* Ajusta el ancho del botón (puedes personalizarlo) */
-  height: 150px; /* Ajusta la altura del botón (puedes personalizarlo) */
-  padding: 0; /* Elimina el padding adicional */
-  background-color: transparent; /* Opcional: establece un fondo transparente */
-  border: none; /* Opcional: elimina bordes si los hay */
-}
-
 header {
-  display: flex; /* Asegura que los elementos internos se alineen correctamente */
-  align-items: center; /* Centra verticalmente los elementos dentro del header */
-  height: 150px; /* Ajusta la altura del header (puedes personalizarlo) */
-  padding: 0 20px; /* Opcional: agrega espacio horizontal */
+  display: flex; /* Usa Flexbox para organizar los elementos */
+  justify-content: space-between; /* Distribuye los elementos a los extremos */
+  align-items: center; /* Centra verticalmente los elementos */
+  height: 200px; /* Ajusta la altura del header */
+  padding: 0 20px; /* Agrega espacio horizontal */
+}
+
+.header-logo {
+  flex: 1; /* Permite que el logo ocupe espacio proporcional */
+  display: flex;
+  justify-content: center; /* Centra el logo horizontalmente */
+  align-items: center;
+  margin-bottom: 20px;
+  
+}
+
+.header-menu {
+  display: flex;
+  justify-content: flex-end; /* Alinea el menú a la derecha */
+  margin-left: 20px; /* Mueve el logo 20px a la derecha */
 }
 
 
-.btn img {
-  max-width: 400%; /* Asegura que el SVG no exceda el tamaño del botón */
-  max-height: 400%; /* Asegura que el SVG no exceda la altura del botón */
+.btn {
+  display: flex; /* Asegura que el contenido interno se alinee correctamente */
+  justify-content: center; /* Centra horizontalmente el contenido */
+  align-items: center; /* Centra verticalmente el contenido */
+  width: 150px; /* Ajusta el ancho del botón */
+  height: 150px; /* Ajusta la altura del botón */
+  margin: 0 auto; /* Centra el botón dentro del contenedor */
+  position: relative; /* Asegura que el contenedor respete su posición */
+  margin-left: 20px; 
+  
 }

@@ -1,12 +1,6 @@
+
+
 {{ define "main" }}
-  <head>
-    <link rel="stylesheet" href="/themes/gallery/assets/css/theme.css"> <!-- Tema -->
-    <link rel="stylesheet" href="/assets/css/custom.css"> <!-- Sobrescribe -->
-  </head>
-
-
-
-
   {{ with .Params.description_image }}
   <img src="{{ . }}" alt="Description Image" class="center-image">
       {{ end }}
