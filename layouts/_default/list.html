@@ -1,12 +1,12 @@
 
 
 {{ define "main" }}
-
+{{ partial "title.html" . }} 
   {{ with .Params.description_image }}
   <img src="{{ . }}" alt="Description Image" class="center-image">
       {{ end }}
 
-      {{ partial "title.html" . }}           
+          
   <section class="galleries">
     {{ range where .Pages "Params.private" "ne" true }}
       {{ partial "album-card.html" . }}
