@@ -2,10 +2,11 @@
 description:
 menus: "main"
 title: Videos
+description_image: /images/secciones_svg/video.svg
 weight: 4
 categories:
 params:
-  theme: dark
+  theme: light
 ---
 {{< videos src="por_favor_di_algo.mp4" caption="Por favor, di algo (2021)" >}}
 {{< videos src="densita.mp4" caption="Densita (2021)" >}}

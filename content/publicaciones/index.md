@@ -1,6 +1,6 @@
 ---
 description:
-description_image: /images/book.webp
+description_image: /images/secciones_svg/publicaciones.svg
 menus: "main"
 title: Publicaciones
 weight: 5

@@ -3,6 +3,7 @@
 
 menus: "main"
 title: Historieta
+description_image: /images/secciones_svg/historieta.svg
 weight: 2
 categories:
 params:
