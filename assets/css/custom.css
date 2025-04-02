@@ -167,9 +167,11 @@ section.gallery #gallery {
 }
 
 .description-image {
-  max-width: 100%;
-  height: auto;
-  flex: 1 1 auto; /* Permite que la imagen escale dentro del contenedor */
+  display: block;
+  margin: 0 auto;
+  max-width: 80%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+  object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
 }
 
 header {
