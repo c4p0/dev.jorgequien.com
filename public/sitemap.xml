@@ -25,9 +25,6 @@
     <loc>http://localhost:1313/artes-visuales/los_sofistas/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/textos/revista-americana/</loc>
-    <lastmod>2023-04-01T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/ilustracion/rolling-planets/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
@@ -51,6 +48,8 @@
   </url><url>
     <loc>http://localhost:1313/historieta/vocecitas/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/textos/revista-americana/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/animals/</loc>
   </url><url>

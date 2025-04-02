@@ -43,15 +43,6 @@
           &lt;p&gt;Muestra junto a la escultora Marcela Oliva, Museo de Arte Contemporáneo MAC, Santiago de Chile, 2017&lt;/p&gt;
         </description></item>
     <item>
-      <title>Revista Americana</title>
-      <link>http://localhost:1313/textos/revista-americana/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/textos/revista-americana/</guid><media:content url="http://localhost:1313/textos/revista-americana/ra-galeria_hu_8e0d9b35200c5f93.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/textos/revista-americana/ra-galeria_hu_8e0d9b35200c5f93.jpg&quot; /&gt;
-          &lt;p&gt;Editorial de Revista Americana, 2008&lt;/p&gt;
-        </description></item>
-    <item>
       <title>Rolling Planets</title>
       <link>http://localhost:1313/ilustracion/rolling-planets/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
@@ -121,6 +112,15 @@
       <guid>http://localhost:1313/historieta/vocecitas/</guid><media:content url="http://localhost:1313/historieta/vocecitas/1_hu_5425d554d7fd9365.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/historieta/vocecitas/1_hu_5425d554d7fd9365.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/textos/revista-americana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
+      <guid>http://localhost:1313/textos/revista-americana/</guid><media:content url="http://localhost:1313/textos/revista-americana/ra-galeria_hu_8e0d9b35200c5f93.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/textos/revista-americana/ra-galeria_hu_8e0d9b35200c5f93.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>

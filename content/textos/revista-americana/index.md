@@ -3,9 +3,10 @@
   <button id="btn-en" style="padding: 10px 20px; background-color: transparent; color: #ffffff; border: 2px solid #505050; border-radius: 5px; text-align: center; cursor: pointer;">English</button>
 </div>  
 
-<div style="text-align: center; margin-top: 20px;">
-  <img src="/images/textos/ra-titulo.png" alt="Revista Americana Título" style="max-width: 100%; height: auto;">
+<div style="text-align: center; margin: 60px 0;">
+  <img src="/images/textos/ra-titulo.svg" alt="Revista Americana Título" style="width: 100%; max-width: 800px; height: auto;">
 </div>
+
 
 <div id="content-es" style="text-align: justify;">
 
