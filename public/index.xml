@@ -16,15 +16,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
       <guid>http://localhost:1313/videos/</guid><description></description></item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/textos/vichoquien/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/textos/vichoquien/</guid><media:content url="http://localhost:1313/textos/vichoquien/vq1_hu_51cb2a0354921365.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/textos/vichoquien/vq1_hu_51cb2a0354921365.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
       <title>Humanillo</title>
       <link>http://localhost:1313/textos/humanillo/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
@@ -55,9 +46,9 @@
       <title>Revista Americana</title>
       <link>http://localhost:1313/textos/revista-americana/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>http://localhost:1313/textos/revista-americana/</guid><media:content url="http://localhost:1313/textos/revista-americana/ra_hu_1c4fe6bcf25bb5c.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/textos/revista-americana/</guid><media:content url="http://localhost:1313/textos/revista-americana/ra-galeria_hu_8e0d9b35200c5f93.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/textos/revista-americana/ra_hu_1c4fe6bcf25bb5c.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/textos/revista-americana/ra-galeria_hu_8e0d9b35200c5f93.jpg&quot; /&gt;
           &lt;p&gt;Editorial de Revista Americana, 2008&lt;/p&gt;
         </description></item>
     <item>
@@ -68,6 +59,15 @@
         <description>
           &lt;img src=&quot;http://localhost:1313/ilustracion/rolling-planets/mancha%20roja-j%C3%BApiter_hu_a88dc757d9292c1e.jpg&quot; /&gt;
           &lt;p&gt;Tinta y acuarela sobre papel, 2007&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Vichoquien</title>
+      <link>http://localhost:1313/textos/vichoquien/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
+      <guid>http://localhost:1313/textos/vichoquien/</guid><media:content url="http://localhost:1313/textos/vichoquien/vq-galeria_hu_d7fa7601c43e9aa8.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/textos/vichoquien/vq-galeria_hu_d7fa7601c43e9aa8.jpg&quot; /&gt;
+          &lt;p&gt;textos para el libro Vichoquien, 2010&lt;/p&gt;
         </description></item>
     <item>
       <title>With or without Comics, 2020</title>

@@ -16,9 +16,6 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/textos/vichoquien/</loc>
-    <lastmod>2023-04-01T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/textos/humanillo/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
@@ -32,6 +29,9 @@
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ilustracion/rolling-planets/</loc>
+    <lastmod>2023-04-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/textos/vichoquien/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/historieta/with-or-without-comics/</loc>

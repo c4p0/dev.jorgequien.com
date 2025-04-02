@@ -1,17 +1,15 @@
 ---
 date: 2023-04-01
-#title: Vichoquien
-#description: textos para el libro Vichoquien, 2010
-description_image: /images/Titulo_vq.png
-theme: ligth
-sort_by: Name
-resources:
-  - src: vq1.jpg
-    title:
-
----
+title: Vichoquien
+description: textos para el libro Vichoquien, 2010
+theme: light
+params:
+  featured_image: vq-galeria.jpg 
+---  
 
 
+
+![](/images/Titulo_vq.png)
 
 
 
