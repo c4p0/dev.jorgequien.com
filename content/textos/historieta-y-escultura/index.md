@@ -1,6 +1,7 @@
 ---
 title: Historieta y Escultura
 description: Cuadernos del Centro de Estudios en Diseño y Comunicación, Universidad de Palermo.
+layout: single-textos
 ---
 
 
@@ -84,3 +85,7 @@ NOTAS
    entre lxs artistas. En 2017 se repitió la experiencia en Los Sofistas, en el Museo de Arte Contemporáneo de Santiago de Chile, donde la experiencia inicial fue expandida y profundizada.
   
 * Los Sofistas se publicó en 2016 por Ril Editores (Santiago de Chile). Y en Buenos Aires en 2018 por Editorial Tren en Movimiento. El libro cuenta con varios textos complementarios; una entrevista, un prólogo de Claudio Aguilera y dos textos de Pablo Turnes, uno dedicado al cómic y otro a la exposición en el MAC.
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="/textos/historieta-y-escultura/gallery/" style="padding: 10px 20px; background-color: transparent; color: #ffffff; border: 2px solid #505050; border-radius: 5px; text-align: center; cursor: pointer; text-decoration: none;">Galería</a>
+</div>
