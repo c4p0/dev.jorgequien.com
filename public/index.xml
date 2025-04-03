@@ -2,152 +2,152 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jorge Quien</title>
-    <link>https://cielo.ovh/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Jorge Quien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>user@example.com (Jorge Quien)</managingEditor>
     <webMaster>user@example.com (Jorge Quien)</webMaster>
     <copyright>© Jorge Quien develop by c4p0*virtual heaven</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 -0300</lastBuildDate><atom:link href="https://cielo.ovh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Videos</title>
-      <link>https://cielo.ovh/videos/</link>
+      <link>http://localhost:1313/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/videos/</guid><description></description></item>
+      <guid>http://localhost:1313/videos/</guid><description></description></item>
     <item>
       <title>Humanillo</title>
-      <link>https://cielo.ovh/textos/humanillo/</link>
+      <link>http://localhost:1313/textos/humanillo/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/textos/humanillo/</guid><media:content url="https://cielo.ovh/textos/humanillo/humanillo-galeria_hu_f7a28e8f7a78be87.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/textos/humanillo/</guid><media:content url="http://localhost:1313/textos/humanillo/humanillo-galeria_hu_f7a28e8f7a78be87.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/textos/humanillo/humanillo-galeria_hu_f7a28e8f7a78be87.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/textos/humanillo/humanillo-galeria_hu_f7a28e8f7a78be87.jpg&quot; /&gt;
           &lt;p&gt;prologos para el libro humanillo, 2010&lt;/p&gt;
         </description></item>
     <item>
       <title>Humanoide</title>
-      <link>https://cielo.ovh/artes-visuales/humanoide/</link>
+      <link>http://localhost:1313/artes-visuales/humanoide/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/artes-visuales/humanoide/</guid><media:content url="https://cielo.ovh/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/artes-visuales/humanoide/</guid><media:content url="http://localhost:1313/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/artes-visuales/humanoide/1_hu_5b1d216e7c27b93f.jpg&quot; /&gt;
           &lt;p&gt;Fundación Bullukian, Lyon, Francia, 2013.&lt;/p&gt;
         </description></item>
     <item>
       <title>Los Sofistas</title>
-      <link>https://cielo.ovh/artes-visuales/los_sofistas/</link>
+      <link>http://localhost:1313/artes-visuales/los_sofistas/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/artes-visuales/los_sofistas/</guid><media:content url="https://cielo.ovh/artes-visuales/los_sofistas/1_hu_c267e3de53b42d16.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/artes-visuales/los_sofistas/</guid><media:content url="http://localhost:1313/artes-visuales/los_sofistas/1_hu_c267e3de53b42d16.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/artes-visuales/los_sofistas/1_hu_c267e3de53b42d16.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/artes-visuales/los_sofistas/1_hu_c267e3de53b42d16.jpg&quot; /&gt;
           &lt;p&gt;Muestra junto a la escultora Marcela Oliva, Museo de Arte Contemporáneo MAC, Santiago de Chile, 2017&lt;/p&gt;
         </description></item>
     <item>
       <title>Rolling Planets</title>
-      <link>https://cielo.ovh/ilustracion/rolling-planets/</link>
+      <link>http://localhost:1313/ilustracion/rolling-planets/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/ilustracion/rolling-planets/</guid><media:content url="https://cielo.ovh/ilustracion/rolling-planets/mancha%20roja-j%C3%BApiter_hu_a88dc757d9292c1e.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/ilustracion/rolling-planets/</guid><media:content url="http://localhost:1313/ilustracion/rolling-planets/mancha%20roja-j%C3%BApiter_hu_a88dc757d9292c1e.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/ilustracion/rolling-planets/mancha%20roja-j%C3%BApiter_hu_a88dc757d9292c1e.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/ilustracion/rolling-planets/mancha%20roja-j%C3%BApiter_hu_a88dc757d9292c1e.jpg&quot; /&gt;
           &lt;p&gt;Tinta y acuarela sobre papel, 2007&lt;/p&gt;
         </description></item>
     <item>
       <title>Vichoquien</title>
-      <link>https://cielo.ovh/textos/vichoquien/</link>
+      <link>http://localhost:1313/textos/vichoquien/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/textos/vichoquien/</guid><media:content url="https://cielo.ovh/textos/vichoquien/vq-galeria_hu_d7fa7601c43e9aa8.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/textos/vichoquien/</guid><media:content url="http://localhost:1313/textos/vichoquien/vq-galeria_hu_d7fa7601c43e9aa8.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/textos/vichoquien/vq-galeria_hu_d7fa7601c43e9aa8.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/textos/vichoquien/vq-galeria_hu_d7fa7601c43e9aa8.jpg&quot; /&gt;
           &lt;p&gt;textos para el libro Vichoquien, 2010&lt;/p&gt;
         </description></item>
     <item>
       <title>With or without Comics, 2020</title>
-      <link>https://cielo.ovh/historieta/with-or-without-comics/</link>
+      <link>http://localhost:1313/historieta/with-or-without-comics/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/historieta/with-or-without-comics/</guid><media:content url="https://cielo.ovh/historieta/with-or-without-comics/1_hu_beed65819921158a.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/historieta/with-or-without-comics/</guid><media:content url="http://localhost:1313/historieta/with-or-without-comics/1_hu_beed65819921158a.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/historieta/with-or-without-comics/1_hu_beed65819921158a.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/historieta/with-or-without-comics/1_hu_beed65819921158a.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Crisis de un modelo</title>
-      <link>https://cielo.ovh/ilustracion/crisis_de_un_modelo/</link>
+      <link>http://localhost:1313/ilustracion/crisis_de_un_modelo/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/ilustracion/crisis_de_un_modelo/</guid><media:content url="https://cielo.ovh/ilustracion/crisis_de_un_modelo/01-crisis_modelo_hu_5c8f189edf67f8b9.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/ilustracion/crisis_de_un_modelo/</guid><media:content url="http://localhost:1313/ilustracion/crisis_de_un_modelo/01-crisis_modelo_hu_5c8f189edf67f8b9.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/ilustracion/crisis_de_un_modelo/01-crisis_modelo_hu_5c8f189edf67f8b9.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/ilustracion/crisis_de_un_modelo/01-crisis_modelo_hu_5c8f189edf67f8b9.jpg&quot; /&gt;
           &lt;p&gt;Tinta sobre manual de instrucciones, 2018&lt;/p&gt;
         </description></item>
     <item>
       <title>Jorgonz</title>
-      <link>https://cielo.ovh/artes-visuales/jorgonz/</link>
+      <link>http://localhost:1313/artes-visuales/jorgonz/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/artes-visuales/jorgonz/</guid><media:content url="https://cielo.ovh/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/artes-visuales/jorgonz/</guid><media:content url="http://localhost:1313/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/artes-visuales/jorgonz/01-manguera_hu_c3583fcd24488d44.jpg&quot; /&gt;
           &lt;p&gt;Instalación de objetos en gabinetes contra incendios. Bienal Internacional de Valparaíso BIAV, Chile, 2024&lt;/p&gt;
         </description></item>
     <item>
       <title>Planeta Cero, 2008</title>
-      <link>https://cielo.ovh/historieta/planeta-cero/</link>
+      <link>http://localhost:1313/historieta/planeta-cero/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/historieta/planeta-cero/</guid><media:content url="https://cielo.ovh/historieta/planeta-cero/1_hu_4186abb30c6bf8a1.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/historieta/planeta-cero/</guid><media:content url="http://localhost:1313/historieta/planeta-cero/1_hu_4186abb30c6bf8a1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/historieta/planeta-cero/1_hu_4186abb30c6bf8a1.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/historieta/planeta-cero/1_hu_4186abb30c6bf8a1.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Robot Gigante</title>
-      <link>https://cielo.ovh/ilustracion/robot/</link>
+      <link>http://localhost:1313/ilustracion/robot/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/ilustracion/robot/</guid><media:content url="https://cielo.ovh/ilustracion/robot/1_hu_ee03fdde093e41d0.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/ilustracion/robot/</guid><media:content url="http://localhost:1313/ilustracion/robot/1_hu_ee03fdde093e41d0.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/ilustracion/robot/1_hu_ee03fdde093e41d0.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/ilustracion/robot/1_hu_ee03fdde093e41d0.jpg&quot; /&gt;
           &lt;p&gt;Tinta y acuarela sobre papel, 2008&lt;/p&gt;
         </description></item>
     <item>
       <title>Vocecitas, 2010</title>
-      <link>https://cielo.ovh/historieta/vocecitas/</link>
+      <link>http://localhost:1313/historieta/vocecitas/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 -0300</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/historieta/vocecitas/</guid><media:content url="https://cielo.ovh/historieta/vocecitas/1_hu_5425d554d7fd9365.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/historieta/vocecitas/</guid><media:content url="http://localhost:1313/historieta/vocecitas/1_hu_5425d554d7fd9365.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/historieta/vocecitas/1_hu_5425d554d7fd9365.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/historieta/vocecitas/1_hu_5425d554d7fd9365.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title></title>
-      <link>https://cielo.ovh/textos/revista-americana/</link>
+      <link>http://localhost:1313/textos/revista-americana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/textos/revista-americana/</guid><media:content url="https://cielo.ovh/textos/revista-americana/ra-galeria_hu_8e0d9b35200c5f93.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/textos/revista-americana/</guid><media:content url="http://localhost:1313/textos/revista-americana/ra-galeria_hu_8e0d9b35200c5f93.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/textos/revista-americana/ra-galeria_hu_8e0d9b35200c5f93.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/textos/revista-americana/ra-galeria_hu_8e0d9b35200c5f93.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Breve antologia del escombro ilustrado</title>
-      <link>https://cielo.ovh/textos/daniel-garcia/</link>
+      <link>http://localhost:1313/textos/daniel-garcia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/textos/daniel-garcia/</guid><media:content url="https://cielo.ovh/textos/daniel-garcia/escombro_hu_9b2e9456b27fcd5.webp" type="image/jpeg"/>
+      <guid>http://localhost:1313/textos/daniel-garcia/</guid><media:content url="http://localhost:1313/textos/daniel-garcia/escombro_hu_9b2e9456b27fcd5.webp" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/textos/daniel-garcia/escombro_hu_9b2e9456b27fcd5.webp&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/textos/daniel-garcia/escombro_hu_9b2e9456b27fcd5.webp&quot; /&gt;
           &lt;p&gt;Texto de sala para la exposición homónima en Oficina Proyectista. Buenos Aires, 2015&lt;/p&gt;
         </description></item>
     <item>
       <title>Historieta y Escultura</title>
-      <link>https://cielo.ovh/textos/historieta-y-escultura/</link>
+      <link>http://localhost:1313/textos/historieta-y-escultura/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/textos/historieta-y-escultura/</guid><media:content url="https://cielo.ovh/textos/historieta-y-escultura/densita1_hu_6534324e76f00836.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/textos/historieta-y-escultura/</guid><media:content url="http://localhost:1313/textos/historieta-y-escultura/densita1_hu_6534324e76f00836.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/textos/historieta-y-escultura/densita1_hu_6534324e76f00836.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/textos/historieta-y-escultura/densita1_hu_6534324e76f00836.jpg&quot; /&gt;
           &lt;p&gt;Cuadernos del Centro de Estudios en Diseño y Comunicación, Universidad de Palermo.&lt;/p&gt;
         </description></item>
     <item>
       <title>Space Opera</title>
-      <link>https://cielo.ovh/textos/space-opera/</link>
+      <link>http://localhost:1313/textos/space-opera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Jorge Quien)</author>
-      <guid>https://cielo.ovh/textos/space-opera/</guid><media:content url="https://cielo.ovh/textos/space-opera/02_hu_988c0c683238519e.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/textos/space-opera/</guid><media:content url="http://localhost:1313/textos/space-opera/02_hu_988c0c683238519e.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://cielo.ovh/textos/space-opera/02_hu_988c0c683238519e.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/textos/space-opera/02_hu_988c0c683238519e.jpg&quot; /&gt;
           &lt;p&gt;Entre el 16 de Mayo y el 5 de Julio de 2008 se exhibió en Galería H1O mi instalación Space Opera. Y durante ese largo periodo (fue la muestra más larga del año) se verificaron extraños sucesos.&lt;/p&gt;
         </description></item>
   </channel>
