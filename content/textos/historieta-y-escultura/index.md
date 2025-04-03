@@ -14,13 +14,13 @@ Jorge Opazo
 <h1 style="text-align: left; color: #999; font-size: 20px;font-weight: bold;">Densita</h1>
 Densita es una historieta breve de ciencia ficción en la que compartimos el proceso creativo con mi pareja, la escultora Marcela Oliva. En Densita el paisaje de fondo, el planeta mismo, es el verdadero protagonista de la historia. Un explorador recorre la superficie mientras el terreno reacciona ante sus estímulos. Pero Densita es, antes que nada, el nombre de un material con que mi esposa estaba trabajando por entonces, una especie de yeso profesional de alta densidad, utilizado por los odontólogos. Es este material el que inspiró el título y la temática del cómic, y la razón que me impulsó a participar a la escultora (y la escultura) en el proceso. Entonces le entregué a Marcela las páginas con el personaje y los globos de texto terminados, pero con los fondos pelados, listos para ser intervenidos.
 
-<div style="max-width: 800px; margin: 20px auto; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <picture style="flex: 1 1 calc(50% - 20px); max-width: 400px;">
+<div style="max-width: 800px; margin: 20px auto; display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
+  <picture style="flex: 1 1 calc(50% - 5px); max-width: 400px;">
     <source srcset="/images/avif/densita1.avif" type="image/avif">
     <source srcset="/images/webp/densita1.webp" type="image/webp">
     <img src="/images/jpg/densita1.jpg" alt="Densita 1" style="width: 100%; height: auto;">
   </picture>
-  <picture style="flex: 1 1 calc(50% - 20px); max-width: 400px;">
+  <picture style="flex: 1 1 calc(50% - 5px); max-width: 400px;">
     <source srcset="/images/avif/densita2.avif" type="image/avif">
     <source srcset="/images/webp/densita2.webp" type="image/webp">
     <img src="/images/jpg/densita2.jpg" alt="Densita 2" style="width: 100%; height: auto;">
@@ -65,13 +65,13 @@ estás haciendo naturalmente. Así pasa también con el arte, que puede ser hech
 No sé bien por qué, pero los buenos escultores suelen ser buenos dibujantes. Tienen una mano endiablada para el dibujo. No así para la pintura. En ese terreno hay historietistas que son buenos pintores (y viceversa) como Alberto Breccia, Carlos Nine, Pablo Zweig o Manuel Depetris. En escultura basta revisar los croquis y proyectos de Claes Oldenburg, Alberto Giacometti u Omar Estela (el maestro de Marcela) para encontrarse con ese dibujo fresco y resuelto.
 En fin, con Densita nunca pretendimos analizar las relaciones estéticas o conceptuales entre historieta y escultura. La colaboración surgió más bien como una actividad de entrecasa. Sin embargo, en 2015 presentamos el proyecto de exposición en el espacio La Dársena -plataforma de pensamiento e interacción artística- dirigido por Azul Blaseotto y Eduardo Molinari. Ese año el ciclo de exposiciones se titulaba “Profundo -exploraciones interdisciplinarias-” y nuestra propuesta calzaba perfectamente con el enunciado. La muestra consistió en una instalación con las páginas originales (tinta y grafito sobre papel) y una serie de objetos y esculturas -materializaciones de la geografía del planeta- realizados por Marcela. Así, el material que inspiró el cómic terminó conformando realmente su paisaje.
 
-<div style="max-width: 800px; margin: 20px auto; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <picture style="flex: 1 1 calc(50% - 20px); max-width: 400px;">
+<div style="max-width: 800px; margin: 20px auto; display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
+  <picture style="flex: 1 1 calc(50% - 5px); max-width: 400px;">
     <source srcset="/images/avif/densita3.avif" type="image/avif">
     <source srcset="/images/webp/densita3.webp" type="image/webp">
     <img src="/images/jpg/densita3.jpg" alt="Densita 1" style="width: 100%; height: auto;">
   </picture>
-  <picture style="flex: 1 1 calc(50% - 20px); max-width: 400px;">
+  <picture style="flex: 1 1 calc(50% - 5px); max-width: 400px;">
     <source srcset="/images/avif/densita4.avif" type="image/avif">
     <source srcset="/images/webp/densita4.webp" type="image/webp">
     <img src="/images/jpg/densita4.jpg" alt="Densita 2" style="width: 100%; height: auto;">
@@ -83,13 +83,13 @@ Los Sofistas es tal vez una de mis historietas más extremas. Todo en Los Sofist
 previamente, cuidando el ritmo y la sonoridad, y dejando el sentido (si existe) muy al fondo. Luego lo desglocé en viñetas. Y todo el asunto se resolvía con la llegada de la muerte. Pero, ¿se resolvía realmente? Creo que no. Así que al año siguiente retomé la historia y escribí el resto del guión. La historia trata sobre dos terroristas ilustrados que deciden tomar el mundo por asalto, acabar definitivamente con la especie humana que ha llegado a límites intolerables de farándula y estupidez. Algo muy actual. Sus planes se ven frustrados porque sobrevienen las reencarnaciones, vidas y muertes de ellos mismos y sus enemigos. Así, los Sofistas se enfrentan una y otra vez a la La Esfera (poder mundial que gobierna el planeta), cuyo ideólogo, Joseph Floyd, es una parodia del escultor alemán Joseph Beuys. El “concepto ampliado del arte” de Beuys es una de las mayores contribuciones al arte contemporáneo del siglo XX, y se sigue proyectando en el tiempo. Y la “escultura social” es una de sus aplicaciones más concretas, en el sentido de que cada persona (”todo ser humano es un artista” reza una de sus máximas) puede y debe contribuir a la conformación del organismo social. Esta ampliación de la conciencia comprende acciones concretas; desde hacer el pan cotidiano hasta considerar el propio pensamiento y las ideas como material escultórico. La vida como obra de arte. Entonces fui parafraseando a Beuys en sentido contrario (no fue tarea fácil). En Los Sofistas los conceptos de Beuys mutaron a “un concepto ampliado de la locura” y a “todo ser humano es un quilombo”. Respecto a la “escultura social”, en el cómic
 tienen cierto protagonismo las llamadas “formas de pensamiento" materializaciones del habla de los Sofistas. En efecto, su lenguajeo es tan denso, tan insoportable, que genera formas materiales que flotan en el aire. Verdaderas esculturas.
 
-<div style="max-width: 800px; margin: 20px auto; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <picture style="flex: 1 1 calc(50% - 20px); max-width: 400px;">
+<div style="max-width: 800px; margin: 20px auto; display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
+  <picture style="flex: 1 1 calc(50% - 5px); max-width: 400px;">
     <source srcset="/images/avif/los-sofistas 1.avif" type="image/avif">
     <source srcset="/images/webp/los-sofistas 1.webp" type="image/webp">
     <img src="/images/jpg/los-sofistas 1.jpg" alt="Densita 1" style="width: 100%; height: auto;">
   </picture>
-  <picture style="flex: 1 1 calc(50% - 20px); max-width: 400px;">
+  <picture style="flex: 1 1 calc(50% - 5px); max-width: 400px;">
     <source srcset="/images/avif/los-sofistas 2.avif" type="image/avif">
     <source srcset="/images/webp/los-sofistas 2.webp" type="image/webp">
     <img src="/images/jpg/los-sofistas 2.jpg" alt="Densita 2" style="width: 100%; height: auto;">
@@ -104,13 +104,13 @@ historieta y escultura. ¿Qué tan fiel a los dibujos o al guión había que ser
 introdujeron el color en un mundo en blanco y negro. Dieron, literalmente, vida a la exposición. Porque el mundo de Los Sofistas es un mundo en decadencia, en ruinas. Y a poco andar ellos mismos se transforman en estatuas vivientes. Así, el carácter “ballardiano”
 del cómic se trasladó a la sala de exposición, pero con el ingrediente inédito del color.
 
-<div style="max-width: 800px; margin: 20px auto; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <picture style="flex: 1 1 calc(50% - 20px); max-width: 400px;">
+<div style="max-width: 800px; margin: 20px auto; display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
+  <picture style="flex: 1 1 calc(50% - 5px); max-width: 400px;">
     <source srcset="/images/avif/los-sofistas 3.avif" type="image/avif">
     <source srcset="/images/webp/los-sofistas 3.webp" type="image/webp">
     <img src="/images/jpg/los-sofistas 3.jpg" alt="Densita 1" style="width: 100%; height: auto;">
   </picture>
-  <picture style="flex: 1 1 calc(50% - 20px); max-width: 400px;">
+  <picture style="flex: 1 1 calc(50% - 5px); max-width: 400px;">
     <source srcset="/images/avif/los-sofistas 4.avif" type="image/avif">
     <source srcset="/images/webp/los-sofistas 4.webp" type="image/webp">
     <img src="/images/jpg/los-sofistas 4.jpg" alt="Densita 2" style="width: 100%; height: auto;">
