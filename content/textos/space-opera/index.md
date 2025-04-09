@@ -1,7 +1,7 @@
 ---
 title: Space Opera
-layaout: page
-description_image: /images/comp-space-opera.webp
+layout: page
+#description_image: /images/comp-space-opera.webp
 description: Entre el 16 de Mayo y el 5 de Julio de 2008 se exhibió en Galería H1O mi instalación Space Opera. Y durante ese largo periodo (fue la muestra más larga del año) se verificaron extraños sucesos.  
 sort_by: Name
 resources:
@@ -9,6 +9,14 @@ resources:
     title:
 
 ---
+
+<div style="width: 100%; margin: 0 auto;">
+  <picture>
+    <source srcset="/images/webp/comp-space-opera.webp" type="image/webp">
+    <source srcset="/images/avif/comp-space-opera.avif" type="image/avif">
+    <img src="/images/jpg/comp-space-opera.jpg" alt="lost" style="width: 100%; height: auto; display: block;">
+  </picture>
+</div>
 
 <div style="text-align: justify;">
 Space Opera consistía en un pequeño universo al interior de una vitrina, una especie de cápsula espacial. En las paredes, pintadas de blanco y negro, flotaban planetas, astronautas, meteoritos y cuadros. Sobre el suelo, una formación de unos 30

@@ -1,3 +1,8 @@
+---
+layout: single-textos
+---
+
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px;">
   <button id="btn-es" style="padding: 10px 20px; background-color: transparent; color: #ffffff; border: 2px solid #505050; border-radius: 5px; text-align: center; cursor: pointer;">Español</button>
   <button id="btn-en" style="padding: 10px 20px; background-color: transparent; color: #ffffff; border: 2px solid #505050; border-radius: 5px; text-align: center; cursor: pointer;">English</button>

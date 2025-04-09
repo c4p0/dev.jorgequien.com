@@ -99,3 +99,17 @@ section.gallery #gallery {
 .textos-list a:hover {
   text-decoration: underline; /* Subraya los enlaces al pasar el cursor */
 }
+
+/* Importa la fuente */
+@font-face {
+  font-family: 'JorgeQuien-plumin';
+  src: url('../fonts/JorgeQuien-plumin.woff') format('woff');
+  src: url('../fonts/JorgeQuien-plumin.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Aplica la fuente a los títulos */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'JorgeQuien-plumin', sans-serif;
+}
