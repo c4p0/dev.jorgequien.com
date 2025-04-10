@@ -82,7 +82,8 @@ Jorge, cómo estás. Muy de acuerdo. No te preocupes, para allá va el trabajo. 
 
 
 Vicho, querido Estamos en sintonía entonces. Me parece excelente el material de los cuadernos. Muy en la línea de Bestinta, azarosos y valientes, y reflexionando de paso sobre el acto de observar-anotar-dibujar. Te parece llegar a 50 páginas cada uno? Trapitos al sol entonces!   
-Póngale tinta, sudor y lágrimas! Quien.   
+Póngale tinta, sudor y lágrimas! Quien.
+---   
 
 
 Jorge.
@@ -134,7 +135,7 @@ Como ves, le escribí a Carlos. Me dice que le gustaría colaborar con un texto 
 ---
    
 Sí, muy de acuerdo con lo de Carlos también. Vicho
-
+---
 Bueno don Vicho
 La gestión del lanzamiento va bien encaminada. Reyes moverá los hilos necesarios y parlará hasta por los codos, ja, ja. Todo bien.   
 Saludotes, Jorge.   
