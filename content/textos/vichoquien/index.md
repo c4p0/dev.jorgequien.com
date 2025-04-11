@@ -82,9 +82,9 @@ Jorge, cómo estás. Muy de acuerdo. No te preocupes, para allá va el trabajo. 
 
 
 Vicho, querido Estamos en sintonía entonces. Me parece excelente el material de los cuadernos. Muy en la línea de Bestinta, azarosos y valientes, y reflexionando de paso sobre el acto de observar-anotar-dibujar. Te parece llegar a 50 páginas cada uno? Trapitos al sol entonces!   
-Póngale tinta, sudor y lágrimas! Quien.
+Póngale tinta, sudor y lágrimas! Quien.   
 ---   
-
+      
 
 Jorge.
 Aquí ya más o menos la mitad de mi trabajo. Falta alguna limpieza, agregar o quitar. Pero esto es. Con ganas de ver cómo ha seguido tu viaje con la bestia. Saludos. Vicho.
