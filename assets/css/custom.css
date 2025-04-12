@@ -181,6 +181,7 @@ header {
   height: 150px; /* Ajusta la altura del header */
   padding: 0 20px; /* Agrega espacio horizontal */
   padding-bottom: 0; /* Elimina el padding inferior */
+  margin-bottom: 0;
 }
 
 .header-logo {
@@ -227,7 +228,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 2rem; /* Tamaño predeterminado */
 }
 #menu {
-  margin-top: 0; /* Elimina el margen superior */
+  margin-top: 0;
+  padding-top: 0;
+  position: relative; /* Elimina el margen superior */
 }
 
 #menu a {
