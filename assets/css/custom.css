@@ -178,8 +178,9 @@ header {
   display: flex; /* Usa Flexbox para organizar los elementos */
   justify-content: space-between; /* Distribuye los elementos a los extremos */
   align-items: center; /* Centra verticalmente los elementos */
-  height: 200px; /* Ajusta la altura del header */
+  height: 150px; /* Ajusta la altura del header */
   padding: 0 20px; /* Agrega espacio horizontal */
+  padding-bottom: 0; /* Elimina el padding inferior */
 }
 
 .header-logo {
@@ -219,10 +220,14 @@ header {
   font-style: normal;
 }
 
+
 /* Estilo general para los títulos y el menú */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'JorgeQuien-plumin', sans-serif;
   font-size: 2rem; /* Tamaño predeterminado */
+}
+#menu {
+  margin-top: 0; /* Elimina el margen superior */
 }
 
 #menu a {
