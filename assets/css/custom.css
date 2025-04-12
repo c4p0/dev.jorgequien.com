@@ -229,9 +229,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Aplica la fuente personalizada a los enlaces dentro del menú */
+
+
 #menu a {
   font-family: 'JorgeQuien-plumin', sans-serif;
+  font-size: 3rem; /* Ajusta el tamaño de la fuente */
 }
+
 
 /* Centra la imagen y ocupa todo el ancho del body */
 .full-width {

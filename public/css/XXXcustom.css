@@ -99,3 +99,9 @@ section.gallery #gallery {
 .textos-list a:hover {
   text-decoration: underline; /* Subraya los enlaces al pasar el cursor */
 }
+
+
+#menu a {
+  font-family: 'JorgeQuien-plumin', sans-serif;
+  font-size: 5rem; /* Ajusta el tamaño de la fuente */
+}
