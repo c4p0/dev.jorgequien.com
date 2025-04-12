@@ -219,18 +219,27 @@ header {
   font-style: normal;
 }
 
-/* Aplica la fuente a los títulos */
+/* Estilo general para los títulos y el menú */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'JorgeQuien-plumin', sans-serif;
+  font-size: 2rem; /* Tamaño predeterminado */
 }
-/*
 
- Aplica la fuente personalizada a los enlaces dentro del menú 
-*/
 #menu a {
   font-family: 'JorgeQuien-plumin', sans-serif;
+  font-size: 1.5rem; /* Tamaño predeterminado */
 }
 
+/* Ajustes para pantallas pequeñas */
+@media (max-width: 768px) {
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 1.5rem; /* Reduce el tamaño de los títulos en pantallas pequeñas */
+  }
+
+  #menu a {
+    font-size: 1rem; /* Reduce el tamaño de los enlaces del menú en pantallas pequeñas */
+  }
+}
 
 /* Centra la imagen y ocupa todo el ancho del body */
 .full-width {
