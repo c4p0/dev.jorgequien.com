@@ -188,7 +188,7 @@ header {
   display: flex;
   justify-content: center; /* Centra el logo horizontalmente */
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 0;
   
 }
 
@@ -240,6 +240,7 @@ h1, h2, h3, h4, h5, h6 {
   h1, h2, h3, h4, h5, h6 {
     font-size: 1.5rem; /* Reduce el tamaño de los títulos en pantallas pequeñas */
     #menu {
+      top: 0;
       margin-bottom: 20px; /* Agrega espacio debajo del menú */
     }
   
@@ -247,7 +248,7 @@ h1, h2, h3, h4, h5, h6 {
       font-size: 1rem; /* Reduce el tamaño de los enlaces del menú */
     }
   
-    body {
+    main {
       padding-top: 60px; /* Asegura que el contenido no tape el menú */
     }
   }
