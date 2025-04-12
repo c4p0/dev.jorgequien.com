@@ -8,16 +8,12 @@ params:
 ---  
 
 
+<img src="/images/textos/Titulo_vq.svg" alt="Titulo VQ" class="full-width" />
 
-![](/images/Titulo_vq.png)
-
-
-
-*Mails escritos durante el proceso. Los transcribimos tal cual, con pequeñas correcciones ocasionales.*  
-   
-
-
-
+*[ Mails escritos durante el proceso. Los transcribimos tal cual, con pequeñas correcciones ocasionales. ]*   
+---   
+---   
+---   
 
 Hola Vicho  
 Te envío mi historieta-homenaje sobre Clamton, cité un par de viñetas tuyas también. A mi me gustó el resultado. Te cuento que nos vamos a vivir a Buenos Aires en febrero, pero seguimos en contacto, yendo y viniendo...  

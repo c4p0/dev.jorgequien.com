@@ -232,3 +232,11 @@ h1, h2, h3, h4, h5, h6 {
 #menu a {
   font-family: 'JorgeQuien-plumin', sans-serif;
 }
+
+/* Centra la imagen y ocupa todo el ancho del body */
+.full-width {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 100%;
+}

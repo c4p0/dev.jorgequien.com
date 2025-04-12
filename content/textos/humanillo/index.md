@@ -9,7 +9,7 @@ params:
  
 ---
 
-![](/images/textos/h1-titulo.png)
+![](/images/textos/h1-titulo.svg)
 
 Hace algún tiempo desarrollé una interesante conversación con una especie de operador cultural neoyorquino, mezcla de curador y representante, acerca de las posibilidades que tienen las imágenes originadas en el mundo de la historieta, para competir con lo que habitualmente encontramos en estos selectos templetes laicos llamados "galerías", dónde pinturas, esculturas, instalaciones y perfomances conviven sin problema alguno. Pero sabemos que hay una excepción. Cuando alguien intenta auspiciar una muestra de este tipo de manifestaciones, que ellos denominan "comic", surgen las primeras airadas objeciones del resto del conventillo. El letal argumento esgrimido es casi siempre el mismo: eso no es arte. Algunos advirtieron prontamente la falta de espacios apropiados para estos materiales -que también son un negocio aunque más modesto- y surgieron, tanto en Europa como en USA, las "galerías de imágenes” como forma de saldar provisoriamente el conflicto, aunque dejando en suspenso la discusión teórica de fondo. Es decir, si estas cosillas son o no, arte. De alguna manera se institucionalizaba el gheto.
 
@@ -23,7 +23,7 @@ Es probable que cuando a Jorge lo sorprenda la madurez como autor (yo comencé a
 
 ---
 
-![](/images/textos/h2-titulo.png)  
+![](/images/textos/h2-titulo.svg)  
 
 Existen muchas maneras de concebir un cómic, la mayoría de ellas ligadas al modo de contar una historia. Pero ¿qué entendemos por contar una historia? Acostumbrados como.estamos a que los relatos se desplieguen de una determinada manera, pasamos por alto el hecho de que existen tantas posibilidades alternativas que cuando las vemos nos sorprendemos (u ofuscamos). El trabajo de Jorge Quien explora justamente esos caminos alternativos en un medio que, dentro de aquellos que definimos como masivos, ya ha demostrado sus amplias posibilidades. Lo interesante (e intrigante) de su trabajo es el modo como tensiona aquello que conocemos hacia lugares donde habitualmente no nos conectamos con el mundo de la historieta.
 
