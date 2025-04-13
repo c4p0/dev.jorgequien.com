@@ -212,15 +212,15 @@ header {
   
 }
 @font-face {
-  font-family: 'JorgeQuien-plumin';
-  src: url('../fonts/testfont.woff') format('woff'), /* Primero woff para iOS 12 */
-       url('../fonts/testfont.woff2') format('woff2');
+  font-family: 'Carolus';
+  src: url('../fonts/Carolus.woff') format('woff'), /* Primero woff para iOS 12 */
+       url('../fonts/Carolus.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 h1, h2, h3, h4, h5, h6, #menu a {
-  font-family: 'testfont', sans-serif;
+  font-family: 'Carolus', sans-serif;
 }
 

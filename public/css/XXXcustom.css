@@ -105,3 +105,16 @@ section.gallery #gallery {
   font-family: 'JorgeQuien-plumin', sans-serif;
   font-size: 5rem; /* Ajusta el tamaño de la fuente */
 }
+
+@font-face {
+  font-family: 'JorgeQuien-plumin';
+  src: url('../fonts/Carolus.woff') format('woff'), /* Primero woff para iOS 12 */
+       url('../fonts/Carolus.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1, h2, h3, h4, h5, h6, #menu a {
+  font-family: 'Carolus', sans-serif;
+}
