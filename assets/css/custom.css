@@ -211,17 +211,16 @@ header {
   margin-left: 20px; 
   
 }
-
 @font-face {
   font-family: 'jorgequienplumin';
-  src: url('jorgequien-plumin2-webfont.woff2') format('woff2'),
-       url('jorgequien-plumin2-webfont.woff') format('woff');
+  src: url('../fonts/jorgequien-plumin2-webfont.woff2') format('woff2'),
+       url('../fonts/jorgequien-plumin2-webfont.woff') format('woff'),
+       url('../fonts/JorgeQuien-plumin2.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
-
 }
 
 h1, h2, h3, h4, h5, h6, #menu a {
-  font-family: 'JorgeQuien-plumin2', sans-serif;
+  font-family: 'jorgequienplumin', sans-serif;
 }
 
