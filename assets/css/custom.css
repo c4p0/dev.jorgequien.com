@@ -236,3 +236,47 @@ h1, h2, h3, h4, h5, h6, #menu a {
     padding-top: 60px !important; /* Reduce si el menú es más pequeño */
   }
 }
+
+/* ===== CORRECCIÓN PARA iPHONE 6 ===== */
+/* 1. Reset del menú principal */
+#menu {
+  position: relative !important;
+  z-index: 1000 !important;
+  overflow: visible !important; /* Permite que el menú se expanda */
+  background: white !important; /* Fondo sólido para contraste */
+}
+
+/* 2. Items del menú desplegable */
+#menu ul {
+  display: block !important;
+  overflow: visible !important;
+  max-height: none !important;
+  white-space: nowrap !important;
+}
+
+#menu li {
+  position: relative !important;
+  display: inline-block !important;
+}
+
+/* 3. Ajuste de títulos */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'JorgeQuien-plumin', sans-serif !important;
+  line-height: 1.2 !important; /* Evita cortes en texto */
+}
+
+/* 4. Media Query específico para iPhone 6 */
+@media only screen and (max-width: 375px) and (-webkit-device-pixel-ratio: 2) {
+  #menu {
+    padding: 5px 0 !important;
+  }
+  
+  #menu a {
+    font-size: 14px !important;
+    padding: 5px 8px !important;
+  }
+  
+  main {
+    padding-top: 50px !important; /* Espacio para el menú fijo */
+  }
+}
