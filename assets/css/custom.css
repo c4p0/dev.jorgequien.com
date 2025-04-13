@@ -231,26 +231,4 @@ h1, h2, h3, h4, h5, h6, #menu a {
     padding: 0; /* Elimina paddings */
   }
 
-  #menu.show {
-    display: flex; /* Muestra el menú cuando se activa */
-  }
-
-  #menu a {
-    display: block; /* Asegura que los enlaces ocupen todo el ancho */
-    width: 100%; /* Ocupa todo el ancho del contenedor */
-    padding: 10px 20px; /* Ajusta el espaciado interno */
-    text-align: center; /* Centra el texto */
-    border-bottom: 1px solid #ddd; /* Línea divisoria entre enlaces */
-    box-sizing: border-box; /* Incluye el padding en el ancho total */
-  }
-  .menu-toggle {
-    display: block; /* Muestra el botón en pantallas pequeñas */
-    position: relative;
-    top: 0px;
-    right: 0px;
-    z-index: 1100; /* Asegura que esté por encima del menú */
-    background: none;
-    border: none;
-    cursor: pointer;
-  }
 }
