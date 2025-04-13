@@ -211,16 +211,17 @@ header {
   margin-left: 20px; 
   
 }
+
 @font-face {
-  font-family: 'Carolus';
-  src: url('../fonts/Carolus.woff') format('woff'), /* Primero woff para iOS 12 */
-       url('../fonts/Carolus.woff2') format('woff2');
+  font-family: 'jorgequienplumin';
+  src: url('jorgequien-plumin2-webfont.woff2') format('woff2'),
+       url('jorgequien-plumin2-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
+
 }
 
 h1, h2, h3, h4, h5, h6, #menu a {
-  font-family: 'Carolus', sans-serif;
+  font-family: 'JorgeQuien-plumin2', sans-serif;
 }
 
