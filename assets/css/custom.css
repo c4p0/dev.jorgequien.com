@@ -224,59 +224,47 @@ h1, h2, h3, h4, h5, h6, #menu a {
   font-family: 'JorgeQuien-plumin', sans-serif;
 }
 
-@media only screen and (max-width: 375px) {
-  #menu {
-    position: -webkit-sticky; /* Soporte para iOS < 13 */
-    position: sticky;
-    top: 0;
-    background: white; /* Fondo sólido para que el texto no se mezcle */
-  }
 
-  main {
-    padding-top: 60px !important; /* Reduce si el menú es más pequeño */
-  }
-}
-
-/* ===== CORRECCIÓN PARA iPHONE 6 ===== */
-/* 1. Reset del menú principal */
-#menu {
-  position: relative !important;
-  z-index: 1000 !important;
-  overflow: visible !important; /* Permite que el menú se expanda */
-  background: white !important; /* Fondo sólido para contraste */
-}
-
-/* 2. Items del menú desplegable */
-#menu ul {
-  display: block !important;
-  overflow: visible !important;
-  max-height: none !important;
-  white-space: nowrap !important;
-}
-
-#menu li {
-  position: relative !important;
-  display: inline-block !important;
-}
-
-/* 3. Ajuste de títulos */
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'JorgeQuien-plumin', sans-serif !important;
-  line-height: 1.2 !important; /* Evita cortes en texto */
-}
-
-/* 4. Media Query específico para iPhone 6 */
-@media only screen and (max-width: 375px) and (-webkit-device-pixel-ratio: 2) {
-  #menu {
-    padding: 5px 0 !important;
-  }
+/* ===== SOLO PARA IPHONE 6/5/SE y iOS ≤ 12 ===== */
+@media only screen and (max-width: 375px) and (-webkit-device-pixel-ratio: 2), 
+       only screen and (max-width: 320px) and (-webkit-device-pixel-ratio: 2) {
   
+  /* 1. Menú: Fondo blanco y despliegue vertical */
+  #menu {
+    background: white !important;
+    overflow: visible !important;
+    position: -webkit-sticky !important; /* Soporte para iOS < 13 */
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 1000 !important;
+    padding: 10px 0 !important;
+  }
+
+  #menu ul {
+    display: block !important;
+    padding-left: 15px !important;
+  }
+
+  #menu li {
+    display: block !important;
+    margin-bottom: 10px !important;
+  }
+
   #menu a {
     font-size: 14px !important;
-    padding: 5px 8px !important;
+    padding: 8px 0 !important;
+    border-bottom: 1px solid #f0f0f0 !important;
   }
-  
+
+  /* 2. Títulos: Fuente y espaciado */
+  h1, h2, h3 {
+    font-family: 'JorgeQuien-plumin', sans-serif !important;
+    line-height: 1.3 !important; /* Evita cortes */
+    margin-top: 12px !important;
+  }
+
+  /* 3. Contenedor principal: Ajuste de espacio */
   main {
-    padding-top: 50px !important; /* Espacio para el menú fijo */
+    padding-top: 60px !important; /* Compensa el menú sticky */
   }
 }
