@@ -224,11 +224,15 @@ h1, h2, h3, h4, h5, h6, #menu a {
   font-family: 'JorgeQuien-plumin', sans-serif;
 }
 
-/* Oculta el menú por defecto en pantallas pequeñas */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 375px) {
   #menu {
-    margin: 0; /* Elimina márgenes */
-    padding: 0; /* Elimina paddings */
+    position: -webkit-sticky; /* Soporte para iOS < 13 */
+    position: sticky;
+    top: 0;
+    background: white; /* Fondo sólido para que el texto no se mezcle */
   }
 
+  main {
+    padding-top: 60px !important; /* Reduce si el menú es más pequeño */
+  }
 }
