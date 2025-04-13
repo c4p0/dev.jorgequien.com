@@ -227,9 +227,7 @@ h1, h2, h3, h4, h5, h6, #menu a {
 /* Oculta el menú por defecto en pantallas pequeñas */
 @media only screen and (max-width: 768px) {
   #menu {
-    display: none; /* Oculta el menú */
     flex-direction: column; /* Asegura que los elementos se apilen verticalmente */
-    background-color: white; /* Fondo para que sea legible */
     position: absolute; /* Posición fija para que se superponga al contenido */
     top: 50px; /* Ajusta según la altura del header */
     left: 0;
