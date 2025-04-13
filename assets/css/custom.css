@@ -225,7 +225,6 @@ header {
 /* Estilo general para los títulos y el menú */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'JorgeQuien-plumin', sans-serif;
-  font-size: 2rem; /* Tamaño predeterminado */
 }
 #menu {
   margin-top: 0;
@@ -235,22 +234,21 @@ h1, h2, h3, h4, h5, h6 {
 
 #menu a {
   font-family: 'JorgeQuien-plumin', sans-serif;
-  font-size: 1.5rem; /* Tamaño predeterminado */
+  
 }
 
 /* Ajustes para pantallas pequeñas */
 @media (max-width: 768px) {
   h1, h2, h3, h4, h5, h6 {
-    font-size: 1.5rem; /* Reduce el tamaño de los títulos en pantallas pequeñas */
+    font-size: 1rem; /* Reduce el tamaño de los títulos en pantallas pequeñas */
+    
     #menu {
       top: 0;
-      margin-bottom: 20px; /* Agrega espacio debajo del menú */
+      margin-bottom: 5px; /* Agrega espacio debajo del menú */
     }
-  
     #menu a {
       font-size: 1rem; /* Reduce el tamaño de los enlaces del menú */
     }
-  
     main {
       padding-top: 60px; /* Asegura que el contenido no tape el menú */
     }
