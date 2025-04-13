@@ -227,12 +227,8 @@ h1, h2, h3, h4, h5, h6, #menu a {
 /* Oculta el menú por defecto en pantallas pequeñas */
 @media only screen and (max-width: 768px) {
   #menu {
-    flex-direction: column; /* Asegura que los elementos se apilen verticalmente */
-    position: relative; /* Posición fija para que se superponga al contenido */
-    top: 0px; /* Ajusta según la altura del header */
-    left: 0;
-    width: 100%; /* Ocupa todo el ancho */
-    z-index: 1000; /* Asegura que esté por encima del contenido */
+    margin: 0; /* Elimina márgenes */
+    padding: 0; /* Elimina paddings */
   }
 
   #menu.show {
@@ -240,18 +236,13 @@ h1, h2, h3, h4, h5, h6, #menu a {
   }
 
   #menu a {
-    padding: 0; /* Espaciado para los enlaces */
+    display: block; /* Asegura que los enlaces ocupen todo el ancho */
+    width: 100%; /* Ocupa todo el ancho del contenedor */
+    padding: 10px 20px; /* Ajusta el espaciado interno */
     text-align: center; /* Centra el texto */
     border-bottom: 1px solid #ddd; /* Línea divisoria entre enlaces */
+    box-sizing: border-box; /* Incluye el padding en el ancho total */
   }
-}
-
-/* Botón de menú (hamburguesa) */
-.menu-toggle {
-  display: none; /* Oculta el botón en pantallas grandes */
-}
-
-@media only screen and (max-width: 768px) {
   .menu-toggle {
     display: block; /* Muestra el botón en pantallas pequeñas */
     position: relative;
