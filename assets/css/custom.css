@@ -224,46 +224,45 @@ h1, h2, h3, h4, h5, h6, #menu a {
   font-family: 'JorgeQuien-plumin', sans-serif;
 }
 
-#menu {
-  display: -webkit-box; /* Fallback para iOS 12 */
-  display: -webkit-flex;
-  display: flex;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-  justify-content: space-between;
-  position: -webkit-sticky; /* Fallback si usas sticky */
-  position: sticky;
-  top: 0;
-}
-
-#menu img {
-  margin: 0 !important; /* Fuerza reset */
-  max-height: 40px; /* Controla el tamaño */
-}
-
-#menu a {
-  -webkit-tap-highlight-color: transparent;
-}
-
-.full-width {
-  display: block;
-  margin: 0 auto;
-  width: 100%;
-  max-width: 100%;
-}
-
-@media only screen and (max-width: 375px) {
+/* Oculta el menú por defecto en pantallas pequeñas */
+@media only screen and (max-width: 768px) {
   #menu {
-    padding: 5px 10px !important;
+    display: none; /* Oculta el menú */
+    flex-direction: column; /* Asegura que los elementos se apilen verticalmente */
+    background-color: white; /* Fondo para que sea legible */
+    position: absolute; /* Posición fija para que se superponga al contenido */
+    top: 50px; /* Ajusta según la altura del header */
+    left: 0;
+    width: 100%; /* Ocupa todo el ancho */
+    z-index: 1000; /* Asegura que esté por encima del contenido */
   }
+
+  #menu.show {
+    display: flex; /* Muestra el menú cuando se activa */
+  }
+
   #menu a {
-    font-size: 14px !important; /* Tamaño fijo para iOS */
+    padding: 10px 20px; /* Espaciado para los enlaces */
+    text-align: center; /* Centra el texto */
+    border-bottom: 1px solid #ddd; /* Línea divisoria entre enlaces */
   }
 }
 
-/* Ajustes específicos para iPhone 6 */
-@media only screen and (max-width: 375px) {
-  #menu a {
-    font-size: 0.9rem;
+/* Botón de menú (hamburguesa) */
+.menu-toggle {
+  display: none; /* Oculta el botón en pantallas grandes */
+}
+
+@media only screen and (max-width: 768px) {
+  .menu-toggle {
+    display: block; /* Muestra el botón en pantallas pequeñas */
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    z-index: 1100; /* Asegura que esté por encima del menú */
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
   }
 }
