@@ -7,12 +7,21 @@ params:
   featured_image: vq-galeria.jpg 
 ---  
 
-
-<div class="center-image">
-  <img src="/images/textos/Titulo_vq.svg" alt="Titulo VQ" class="full-width" />
+<div class="centered-image">
+  <img src="/images/textos/Titulo_vq.svg" alt="Titulo VQ" />
 </div>
 
-<p class="text-gray-italic">Mails escritos durante el proceso. Los transcribimos tal cual, con pequeñas correcciones ocasionales.</p> 
+<p class="text-gray-italic">Mails escritos durante el proceso. Los transcribimos tal cual, con pequeñas correcciones ocasionales.</p>   
+   
+     
+    
+       
+          
+---
+---
+---
+
+
 
 
 Hola Vicho  

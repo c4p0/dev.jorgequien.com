@@ -228,9 +228,30 @@ h1, h2, h3, h4, h5, h6, #menu a {
 .text-gray-italic {
   color: gray;
   font-style: italic; /* Opcional: para mantener el estilo de cursiva */
+  margin-top: 0  !important;/* Espacio entre el texto y la imagen */
+  margin-bottom: 20px; /* Elimina el margen inferior */
+  text-align: center;
 }
 
 .text-gray {
   color: gray;
   
+}
+
+.centered-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%; /* Asegura que ocupe todo el ancho del body */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+  margin-bottom: 0; /* Elimina el margen inferior */
+  padding: 0; /* Elimina el padding */
+  max-width: 100%; /* Asegura que el contenedor no exceda el ancho del body */
+
+}
+
+.centered-image img {
+  width: 100%; /* La imagen ocupará todo el ancho del contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+  margin-bottom: 0; /* Elimina el margen inferior */
 }
