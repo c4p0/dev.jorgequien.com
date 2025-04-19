@@ -224,3 +224,13 @@ h1, h2, h3, h4, h5, h6, #menu a {
   font-family: 'jorgequienplumin', sans-serif;
 }
 
+
+.text-gray-italic {
+  color: gray;
+  font-style: italic; /* Opcional: para mantener el estilo de cursiva */
+}
+
+.text-gray {
+  color: gray;
+  
+}
