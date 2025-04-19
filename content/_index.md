@@ -3,7 +3,7 @@
 title: 
 theme: 
 resources:
-  - src: 01-manguera.jpg
+  - src: 
     params:
       cover: true # cover of the home page is used for OpenGraph cards, etc.
 menus:

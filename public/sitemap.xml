@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/artes-visuales/</loc>
+    <loc>http://localhost:1313/exposiciones/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ilustracion/</loc>
@@ -19,10 +19,10 @@
     <loc>http://localhost:1313/textos/humanillo/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artes-visuales/humanoide/</loc>
+    <loc>http://localhost:1313/exposiciones/humanoide/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artes-visuales/los_sofistas/</loc>
+    <loc>http://localhost:1313/exposiciones/los_sofistas/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ilustracion/rolling-planets/</loc>
@@ -37,7 +37,7 @@
     <loc>http://localhost:1313/ilustracion/crisis_de_un_modelo/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artes-visuales/jorgonz/</loc>
+    <loc>http://localhost:1313/exposiciones/jorgonz/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/historieta/planeta-cero/</loc>
