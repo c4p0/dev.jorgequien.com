@@ -2,15 +2,14 @@
 
 title : 'Breve antologia del escombro ilustrado'
 description : Texto de sala para la exposición homónima en Oficina Proyectista. Buenos Aires, 2015 
-description_image: /images/escombro.webp
+####description_image: /images/escombro.webp
 sort_by: Name
 layout: single-textos
 resources:
   - src:
     title:
 ---
- **Breve Antología del Escombro Ilustrado**  
-*Daniel García*
+**Breve Antología del Escombro Ilustrado**  
 <div style="text-align: justify;">
 No se trata de hacer escombros, sino de pintar sobre ellos. Tampoco es
 cosa de construir sobre las ruinas. Las ruinas tienen otras connotaciones.
@@ -38,4 +37,9 @@ del presente, las imágenes de un futuro que ya es pasado o de un futuro
 que nunca será, como fragmentos casi indescifrables de falsos murales
 que cuentan historias fantásticas de encuentros extraterrestres y viajes
 interplanetarios.
+</div>
+
+*Daniel García*
+<div class="centered-image">
+  <img src="/images/escombro.webp" alt="Titulo VQ" />
 </div>

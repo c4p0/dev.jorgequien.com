@@ -1,5 +1,6 @@
 ---
-layout: single-textos
+title: Revista Americana
+layout: single-textos2
 ---
 
 

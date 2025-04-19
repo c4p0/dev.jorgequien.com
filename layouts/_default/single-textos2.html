@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <head>
+    <link rel="stylesheet" href="/themes/gallery/assets/css/theme.css"> <!-- Tema -->
+    <link rel="stylesheet" href="/assets/css/custom.css"> <!-- Sobrescribe -->
+  </head>
+  {{ partial "related.html" . }}
+  {{ with .Params.description_image }}
+  <img src="{{ . }}" alt="Description Image" class="center-image">
+{{ else }}
+  <p></p>
+{{ end }}
+
+
+  {{ with .Content }}
+    <section class="prose">
+      {{ . }}
+    </section>
+  {{ end }}
+  <div style="margin: 20px auto; text-align: center; max-width: 800px;">
+  
+  </div>
+{{ end }}
