@@ -8,7 +8,7 @@ timeout = "120s"
 title = "Jorge Quien | Artista Visual"
 favicon = "images/favicon.svg"
 baseURL = "https://jorgequien.com/"
-
+description = "Exposiciones, ilustración, gráfica, historieta, textos, publicaciones y más"
 
 
 [markup.goldmark.renderer]
