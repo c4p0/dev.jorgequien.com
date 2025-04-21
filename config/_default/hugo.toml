@@ -19,7 +19,7 @@ unsafe = true
 
 [params]
   defaultTheme = "dark"
-  description = "Obra visual – Exposiciones, ilustración, gráfica, historieta y más"
+  description = "Exposiciones, ilustración, gráfica, historieta, textos publicaciones y más"
   customCSS = ["assets/css/custom.css"]
   title = "Jorge Quien | Artista Visual"
  
