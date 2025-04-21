@@ -3,10 +3,12 @@ defaultContentLanguage = "es"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 timeZone = "America/Argentina/Buenos_Aires"
-languageCode = "en"
+languageCode = "es"
 timeout = "120s"
-title = "Jorge Quien"
+title = "Jorge Quien | Artista Visual"
+cascade.description = "Obra visual – Exposiciones, ilustración, gráfica, historieta y más"
 favicon = "images/favicon.svg"
+baseURL = "https://jorgequien.com/"
 
 
 
@@ -17,9 +19,9 @@ unsafe = true
 
 [params]
   defaultTheme = "dark"
-  description = "web Jorge Quien"
+  description = "Obra visual – Exposiciones, ilustración, gráfica, historieta y más"
   customCSS = ["assets/css/custom.css"]
-  title = "Jorge Quien"
+  title = "Jorge Quien | Artista Visual"
  
   [params.author]
     email = "user@example.com"
