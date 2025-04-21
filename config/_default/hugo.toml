@@ -6,7 +6,7 @@ timeZone = "America/Argentina/Buenos_Aires"
 languageCode = "es"
 timeout = "120s"
 title = "Jorge Quien | Artista Visual"
-#cascade.description = "Obra visual – Exposiciones, ilustración, gráfica, historieta y más"
+#cascade.description = "Exposiciones, ilustración, gráfica, historieta, textos, publicaciones y más"
 favicon = "images/favicon.svg"
 baseURL = "https://jorgequien.com/"
 
