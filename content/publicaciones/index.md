@@ -4,7 +4,7 @@ description_image: /images/secciones_svg/publicaciones.svg
 menus: "main"
 title: Publicaciones
 weight: 5
-layout: single
+layout: single-publicaciones
 
 params:
   theme: light
