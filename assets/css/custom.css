@@ -213,8 +213,8 @@ header {
 }
 @font-face {
   font-family: 'jorgequienplumin';
-  src: url('../fonts/JorgeQuien-pluminNew6.woff2') format('woff2'),
-       url('../fonts/JorgeQuien-pluminNew6.woff') format('woff');
+  src: url('../fonts/JorgeQuien-pluminNew7.woff2') format('woff2'),
+       url('../fonts/JorgeQuien-pluminNew7.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
