@@ -13,7 +13,7 @@ menu:
 </div>
 
 
-**Jorge Quien** [seudónimo de: *Jorge Opazo*]
+**Jorge Quien** [seudónimo de *Jorge Opazo*]
 ---
 ---
 ---

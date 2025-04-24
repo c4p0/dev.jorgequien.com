@@ -2,63 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jorgequien.com/exposiciones/</loc>
+    <loc>http://localhost:44335/exposiciones/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/ilustracion/</loc>
+    <loc>http://localhost:44335/ilustracion/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/historieta/</loc>
+    <loc>http://localhost:44335/historieta/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/videos/</loc>
+    <loc>http://localhost:44335/videos/</loc>
   </url><url>
-    <loc>https://jorgequien.com/</loc>
+    <loc>http://localhost:44335/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/textos/humanillo/</loc>
+    <loc>http://localhost:44335/textos/humanillo/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/exposiciones/humanoide/</loc>
+    <loc>http://localhost:44335/exposiciones/humanoide/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/exposiciones/los_sofistas/</loc>
+    <loc>http://localhost:44335/exposiciones/los_sofistas/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/ilustracion/rolling-planets/</loc>
+    <loc>http://localhost:44335/ilustracion/rolling-planets/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/textos/vichoquien/</loc>
+    <loc>http://localhost:44335/textos/vichoquien/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/historieta/with-or-without-comics/</loc>
+    <loc>http://localhost:44335/historieta/with-or-without-comics/</loc>
     <lastmod>2023-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/ilustracion/crisis_de_un_modelo/</loc>
+    <loc>http://localhost:44335/ilustracion/crisis_de_un_modelo/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/exposiciones/jorgonz/</loc>
+    <loc>http://localhost:44335/exposiciones/jorgonz/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/historieta/planeta-cero/</loc>
+    <loc>http://localhost:44335/ilustracion/robot/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/ilustracion/robot/</loc>
+    <loc>http://localhost:44335/historieta/vocecitas/</loc>
     <lastmod>2023-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://jorgequien.com/historieta/vocecitas/</loc>
-    <lastmod>2023-01-12T00:00:00-03:00</lastmod>
+    <loc>http://localhost:44335/categories/animals/</loc>
   </url><url>
-    <loc>https://jorgequien.com/categories/animals/</loc>
+    <loc>http://localhost:44335/bio/</loc>
   </url><url>
-    <loc>https://jorgequien.com/bio/</loc>
+    <loc>http://localhost:44335/textos/daniel-garcia/</loc>
   </url><url>
-    <loc>https://jorgequien.com/textos/daniel-garcia/</loc>
+    <loc>http://localhost:44335/textos/historieta-y-escultura/</loc>
   </url><url>
-    <loc>https://jorgequien.com/textos/historieta-y-escultura/</loc>
+    <loc>http://localhost:44335/historieta/planeta-cero/</loc>
   </url><url>
-    <loc>https://jorgequien.com/textos/revista-americana/</loc>
+    <loc>http://localhost:44335/textos/revista-americana/</loc>
   </url><url>
-    <loc>https://jorgequien.com/textos/space-opera/</loc>
+    <loc>http://localhost:44335/textos/space-opera/</loc>
   </url>
 </urlset>

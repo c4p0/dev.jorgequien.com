@@ -1,6 +1,6 @@
 ---
 
-title : 'Breve antologia del escombro ilustrado'
+title : 'Breve antología del escombro ilustrado'
 description : Texto de sala para la exposición homónima en Oficina Proyectista. Buenos Aires, 2015 
 ####description_image: /images/escombro.webp
 sort_by: Name

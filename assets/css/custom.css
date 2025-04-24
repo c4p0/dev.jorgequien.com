@@ -169,7 +169,7 @@ section.gallery #gallery {
 .description-image {
   display: block;
   margin: 0 auto;
-  max-width: 80%; /* Asegura que la imagen no exceda el ancho del contenedor */
+  max-width: 20%; /* Asegura que la imagen no exceda el ancho del contenedor */
   height: auto; /* Mantiene la proporción de la imagen */
   object-fit: contain; /* Escala la imagen para que se ajuste dentro del contenedor */
 }
@@ -213,9 +213,8 @@ header {
 }
 @font-face {
   font-family: 'jorgequienplumin';
-  src: url('../fonts/jorgequien-plumin2-webfont.woff2') format('woff2'),
-       url('../fonts/jorgequien-plumin2-webfont.woff') format('woff'),
-       url('../fonts/JorgeQuien-plumin2.ttf') format('truetype');
+  src: url('../fonts/JorgeQuien-pluminNew4.woff2') format('woff2'),
+       url('../fonts/JorgeQuien-pluminNew4.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }

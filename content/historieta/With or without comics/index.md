@@ -1,6 +1,7 @@
 ---
 date: 2023-04-01
 title: With or without Comics, 2020
+layout: single2
 sort_by: Name
 #categories: ["comics"]
 params:

@@ -10,6 +10,7 @@ params:
   theme: light
   private: true
 ---
+<!--
 
 **[Obra Reunida, Corregida y Aumentada](/publicaciones/obra/)**
 Pabellón 4, Buenos Aires, 2023.
@@ -70,3 +71,4 @@ FONDART, Santiago de Chile, 2008.
 
 ---
 
+-->

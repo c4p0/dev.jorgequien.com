@@ -18,6 +18,8 @@ resources:
   </picture>
 </div>
 
+**Texto para el catálogo de Galería H10.**
+
 <div style="text-align: justify;">
 Space Opera consistía en un pequeño universo al interior de una vitrina, una especie de cápsula espacial. En las paredes, pintadas de blanco y negro, flotaban planetas, astronautas, meteoritos y cuadros. Sobre el suelo, una formación de unos 30
 muñequitos entre robots, androides, cyborgs y extraterrestres.  
