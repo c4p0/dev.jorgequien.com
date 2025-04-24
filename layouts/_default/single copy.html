@@ -11,6 +11,15 @@
   <p></p>
 {{ end }}
 
+ 
+  <!-- Mostrar la imagen de description_image -->
+ 
+
+  {{ with .Content }}
+    <section class="prose">
+      {{ . }}
+    </section>
+  {{ end }}
   <div style="margin: 20px auto; text-align: center; max-width: 800px;">
     {{ partial "gallery.html" . }}
   </div>

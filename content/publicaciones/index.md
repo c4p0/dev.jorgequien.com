@@ -11,7 +11,6 @@ params:
   private: true
 ---
 <!--
-
 **[Obra Reunida, Corregida y Aumentada](/publicaciones/obra/)**
 Pabellón 4, Buenos Aires, 2023.
 
@@ -67,8 +66,4 @@ Autoedición, Buenos Aires, 2009.
 Pabellón 4, Buenos Aires, 2009.
 
 **[Revista Americana (con Catalina Schliebener)](/publicaciones/revista/)** 
-FONDART, Santiago de Chile, 2008. 
-
----
-
--->
+FONDART, Santiago de Chile, 2008. -->
