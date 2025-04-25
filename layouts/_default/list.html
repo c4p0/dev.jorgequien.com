@@ -13,6 +13,10 @@
 
 
   {{ with .Params.description_image }}
-  <img src="{{ . }}" alt="Description Image" class="description-image">
+  <div style="text-align: center;">
+    <a href="#top" style="display: inline-block;">
+      <img src="{{ . }}" alt="Description Image" class="description-image" style="cursor: pointer;">
+    </a>
+  </div>
       {{ end }}
   {{ end }}

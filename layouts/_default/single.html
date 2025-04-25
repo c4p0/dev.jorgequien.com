@@ -5,14 +5,9 @@
   </head>
   {{ partial "title.html" . }}
   {{ partial "related.html" . }}
-  {{ with .Params.description_image }}
-  <img src="{{ . }}" alt="Description Image" class="description-image">
-{{ else }}
-  <p></p>
-{{ end }}
+
 
  
-  <!-- Mostrar la imagen de description_image -->
  
 
   {{ with .Content }}
@@ -20,7 +15,15 @@
       {{ . }}
     </section>
   {{ end }}
-  <div style="margin: 20px auto; text-align: center; max-width: 800px;">
+
+  {{ with .Params.description_image }}
+  <div style="text-align: center;">
+    <a href="#top" style="display: inline-block;">
+      <img src="{{ . }}" alt="Description Image" class="description-image" style="cursor: pointer;">
+    </a>
+  </div>
+{{ end }}
+  <div style="margin: 20px auto; text-align: center; max-width: 1600px;">
     {{ partial "gallery.html" . }}
   </div>
 {{ end }}
