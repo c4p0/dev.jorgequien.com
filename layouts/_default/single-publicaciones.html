@@ -5,13 +5,12 @@
   </head>
   {{ partial "title.html" . }}
   {{ partial "related.html" . }}
-  {{ with .Params.description_image }}
-  <img src="{{ . }}" alt="Description Image" class="description-image">
-{{ else }}
-  <p></p>
-{{ end }}
 
-  <div style="margin: 20px auto; text-align: center; max-width: 800px;">
+
+  <div style="margin: 10px auto; text-align: center; max-width: 1800px;">
     {{ partial "gallery.html" . }}
   </div>
+  {{ with .Params.description_image }}
+  <img src="{{ . }}" alt="Description Image" class="description-image">
+{{ end }}
 {{ end }}

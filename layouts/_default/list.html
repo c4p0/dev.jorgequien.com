@@ -1,11 +1,9 @@
 
 
 {{ define "main" }}
-{{ partial "title.html" . }} 
-  {{ with .Params.description_image }}
-  <img src="{{ . }}" alt="Description Image" class="description-image">
-      {{ end }}
 
+
+      {{ partial "title.html" . }} 
           
   <section class="galleries">
     {{ range where .Pages "Params.private" "ne" true }}
@@ -14,4 +12,7 @@
   </section>
 
 
+  {{ with .Params.description_image }}
+  <img src="{{ . }}" alt="Description Image" class="description-image">
+      {{ end }}
   {{ end }}
