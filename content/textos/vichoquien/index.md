@@ -2,6 +2,8 @@
 date: 2023-04-01
 title: Vichoquien
 description: textos para el libro Vichoquien, 2010
+layout: page
+description_image: /images/secciones_svg/textos.svg
 theme: light
 params:
   featured_image: vq-galeria.jpg 

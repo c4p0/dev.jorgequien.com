@@ -2,6 +2,8 @@
 date: 2023-04-01
 title: Rolling Planets
 description: Tinta y acuarela sobre papel, 2007
+layout: single2
+description_image: /images/secciones_svg/ilustracion-gray.svg
 sort_by: Name
 #categories: []
 params:

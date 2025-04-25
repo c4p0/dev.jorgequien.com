@@ -1,7 +1,8 @@
 ---
 title: Historieta y Escultura
 description: Cuadernos del Centro de Estudios en Diseño y Comunicación, Universidad de Palermo.
-layout: single-textos
+description_image: /images/secciones_svg/textos-gray.svg
+layout: page
 ---
 
 

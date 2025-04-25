@@ -1,7 +1,7 @@
 ---
 title: Space Opera
 layout: page
-#description_image: /images/comp-space-opera.webp
+description_image: /images/secciones_svg/textos-gray.svg
 description: Entre el 16 de Mayo y el 5 de Julio de 2008 se exhibió en Galería H1O mi instalación Space Opera. Y durante ese largo periodo (fue la muestra más larga del año) se verificaron extraños sucesos.  
 sort_by: Name
 resources:

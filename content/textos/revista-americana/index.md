@@ -1,5 +1,6 @@
 ---
 title: Revista Americana
+description_image: /images/secciones_svg/textos-gray.svg
 layout: single-textos2
 ---
 

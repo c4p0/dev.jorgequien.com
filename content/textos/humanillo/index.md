@@ -2,7 +2,8 @@
 date: 2023-04-01
 title: Humanillo
 description: prologos para el libro humanillo, 2010
-layout: single-textos
+description_image: /images/secciones_svg/textos-gray.svg
+layout: page
 params:
   featured_image: humanillo-galeria.jpg
 

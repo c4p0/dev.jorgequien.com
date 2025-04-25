@@ -22,3 +22,6 @@
     {{ end }}
   {{ end }}
 </div>
+{{ with .Params.description_image }}
+<img src="{{ . }}" alt="Description Image" class="description-image">
+{{ end }}

@@ -4,15 +4,17 @@
     <link rel="stylesheet" href="/assets/css/custom.css"> <!-- Sobrescribe -->
   </head>
 
-  
-  <!-- Mostrar la imagen de description_image -->
-  {{ with .Params.description_image }}
-    <img src="{{ . }}" alt="Description Image" class="description-image">
-  {{ else }}
-    <p></p>
-  {{ end }}
+
   {{ partial "title.html" . }}  
   <section class="prose">
     {{ .Content }}
   </section>
+  {{ with .Params.description_image }}
+  <div style="text-align: center; margin: 20px 0;">
+    <a href="{{ $.CurrentSection.Permalink }}" style="display: inline-block;">
+      <img src="{{ . }}" alt="Volver al listado" class="description-image" style="cursor: pointer;">
+    </a>
+  </div>
+{{ end }}
+  
 {{ end }}
