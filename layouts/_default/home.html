@@ -1,12 +1,6 @@
 {{ define "main" }}
   {{ partial "title.html" . }}
   
-  <!-- Mostrar la imagen de description_image -->
-  {{ with .Params.description_image }}
-    <img src="{{ . }}" alt="Description Image" class="home-image">
-  {{ else }}
-    <p></p>
-  {{ end }}
   
   {{ partial "categories.html" }}
   {{ partial "featured.html" . }}

@@ -2,7 +2,8 @@
 title: Space Opera
 layout: page
 description_image: /images/secciones_svg/textos-gray.svg
-description: Entre el 16 de Mayo y el 5 de Julio de 2008 se exhibió en Galería H1O mi instalación Space Opera. Y durante ese largo periodo (fue la muestra más larga del año) se verificaron extraños sucesos.  
+#description: Entre el 16 de Mayo y el 5 de Julio de 2008 se exhibió en Galería H1O mi instalación Space Opera. Y durante ese largo periodo (fue la muestra más larga del año) se verificaron extraños sucesos.  
+description: Texto para el catálogo de Galería H10.
 sort_by: Name
 resources:
   - src:
@@ -18,7 +19,6 @@ resources:
   </picture>
 </div>
 
-**Texto para el catálogo de Galería H10.**
 
 <div style="text-align: justify;">
 Space Opera consistía en un pequeño universo al interior de una vitrina, una especie de cápsula espacial. En las paredes, pintadas de blanco y negro, flotaban planetas, astronautas, meteoritos y cuadros. Sobre el suelo, una formación de unos 30
