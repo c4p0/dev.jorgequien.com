@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animals on Jorge Quien | Artista Visual</title>
-    <link>http://localhost:1313/categories/animals/</link>
+    <link>https://dev.jorgequien.com/categories/animals/</link>
     <description>Recent content in Animals on Jorge Quien | Artista Visual</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>user@example.com (Jorge Quien)</managingEditor>
     <webMaster>user@example.com (Jorge Quien)</webMaster>
-    <copyright>🄯 Jorge Quien develop by c4p0*he4ven</copyright><atom:link href="http://localhost:1313/categories/animals/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>🄯 Jorge Quien develop by c4p0*he4ven</copyright><atom:link href="https://dev.jorgequien.com/categories/animals/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

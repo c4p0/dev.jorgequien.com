@@ -1,7 +1,7 @@
 ---
 date: 2023-04-01
 title: With or without Comics, 2020
-layout: single2
+layout: single-historieta
 description_image: /images/secciones_svg/historieta-gray.svg
 sort_by: Name
 #categories: ["comics"]
