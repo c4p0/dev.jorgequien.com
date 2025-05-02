@@ -1,14 +1,20 @@
 ---
 title: Historieta y Escultura
-description: Cuadernos del Centro de Estudios en Diseño y Comunicación, Universidad de Palermo.
+#description: Cuadernos del Centro de Estudios en Diseño y Comunicación, Universidad de Palermo 2020.
 description_image: /images/secciones_svg/textos-gray.svg
-layout: page
+layout: page-st
 ---
 
 
 <h1 style="text-align: center; color: #white; font-size: 24px; font-weight: bold; margin-bottom: 5px;">Historieta y escultura, un vínculo posible</h1>
 <h3 style="text-align: center; color: #999; font-size: 20px; font-weight: bold; margin-top: 0;  margin-bottom: 30px;">Jorge Opazo</h3>
+<div style="text-align: center;">
 
+*Cuadernos del Centro de Estudios en Diseño y Comunicación, Universidad de Palermo 2020.*
+</div>
+
+---   
+---   
 
 
 <h2 style="text-align: left; color: #dfdfdf; font-size: 20px; font-weight: bold; margin-bottom: 3px; font-style: italic;">Densita</h2>

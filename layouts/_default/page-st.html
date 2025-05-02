@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <head>
+    <link rel="stylesheet" href="/themes/gallery/assets/css/theme.css"> <!-- Tema -->
+    <link rel="stylesheet" href="/assets/css/custom.css"> <!-- Sobrescribe -->
+  </head>
+
+ 
+  <section class="prose">
+    {{ .Content }}
+  </section>
+  {{ with .Params.description_image }}
+  <div style="text-align: center; margin: 20px 0;">
+    <a href="{{ $.CurrentSection.Permalink }}" style="display: inline-block;">
+      <img src="{{ . }}" alt="Volver al listado" class="description-image" style="cursor: pointer;">
+    </a>
+  </div>
+{{ end }}
+  
+{{ end }}
