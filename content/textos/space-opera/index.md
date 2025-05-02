@@ -63,4 +63,3 @@ explica y justifica la existencia de la anormalidad"?*
 </div>
 
 **Jorge Opazo**  
-Fotografía: Tamina Hauser, Pedro Sepúlveda
